@@ -5,8 +5,8 @@ import { title } from "process";
 const songmapper = song => {
     try {
         const subtitle_parts = song.subtitle.replace("\r\n", "").replace("\\r\\n", "").match(/<div class="rs-list-item--year">(\d*)<\/div>.*<span class="rs-list-item--credits__names">(.*)(<\/span>)/)
-        const title_parts = song.title.split(", ");
-        const title = title_parts[1].substr(1, title_parts[1].length - 2)
+        const title_parts = song.title.split(", '");
+        const title = title_parts[1].substr(0, title_parts[1].length - 1)
         return {
             id: song.ID,
             position: song.positionDisplay,
