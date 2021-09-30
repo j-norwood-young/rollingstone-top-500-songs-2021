@@ -1,0 +1,19 @@
+{
+  "name": "rollingstone-top-500-songs-2021",
+  "version": "0.0.1",
+  "description": "Convert the RollingStone Top 500 Songs for 2021 to an open data format",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music",
+    "rollingstone",
+    "top500"
+  ],
+  "author": "Jason Norwood-Young",
+  "license": "MIT",
+  "dependencies": {
+    "jsonexport": "^3.2.0"
+  }
+}
