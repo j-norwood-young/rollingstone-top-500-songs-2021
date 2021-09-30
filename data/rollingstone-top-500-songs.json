@@ -2,7 +2,8 @@
    {
       "id": 1224837,
       "position": 500,
-      "title": "Kanye West, 'Stronger'",
+      "artist": "Kanye West",
+      "title": "Stronger",
       "year": "2007",
       "writers": [
          "Mike Dean",
@@ -19,7 +20,8 @@
    {
       "id": 1224838,
       "position": 499,
-      "title": "The Supremes, 'Baby Love'",
+      "artist": "The Supremes",
+      "title": "Baby Love",
       "year": "1964",
       "writers": [
          "Brian Holland",
@@ -34,7 +36,8 @@
    {
       "id": 1224839,
       "position": 498,
-      "title": "Townes Van Zandt, 'Pancho and Lefty'",
+      "artist": "Townes Van Zandt",
+      "title": "Pancho and Lefty",
       "year": "1972",
       "writers": [
          "Townes Van Zandt"
@@ -47,7 +50,8 @@
    {
       "id": 1224840,
       "position": 497,
-      "title": "Lizzo, 'Truth Hurts'",
+      "artist": "Lizzo",
+      "title": "Truth Hurts",
       "year": "2017",
       "writers": [
          "Eric Frederic",
@@ -64,7 +68,8 @@
    {
       "id": 1224841,
       "position": 496,
-      "title": "Harry Nilsson, 'Without You'",
+      "artist": "Harry Nilsson",
+      "title": "Without You",
       "year": "1971",
       "writers": [
          "Peter Ham",
@@ -78,7 +83,8 @@
    {
       "id": 1224842,
       "position": 495,
-      "title": "Carly Simon, 'You're So Vain'",
+      "artist": "Carly Simon",
+      "title": "You're So Vain",
       "year": "1972",
       "writers": [
          "Carly Simon"
@@ -91,7 +97,8 @@
    {
       "id": 1224843,
       "position": 494,
-      "title": "Cyndi Lauper, 'Time After Time'",
+      "artist": "Cyndi Lauper",
+      "title": "Time After Time",
       "year": "1983",
       "writers": [
          "Cyndi Lauper",
@@ -105,7 +112,8 @@
    {
       "id": 1224844,
       "position": 493,
-      "title": "The Pixies, 'Where Is My Mind?'",
+      "artist": "The Pixies",
+      "title": "Where Is My Mind?",
       "year": "1988",
       "writers": [
          "Black Francis"
@@ -118,7 +126,8 @@
    {
       "id": 1224845,
       "position": 492,
-      "title": "Miles Davis, 'So What'",
+      "artist": "Miles Davis",
+      "title": "So What",
       "year": "1959",
       "writers": [
          "Miles Davis"
@@ -131,7 +140,8 @@
    {
       "id": 1224846,
       "position": 491,
-      "title": "Guns N' Roses, 'Welcome to the Jungle'",
+      "artist": "Guns N' Roses",
+      "title": "Welcome to the Jungle",
       "year": "1987",
       "writers": [
          "Duff McKagan",
@@ -148,7 +158,8 @@
    {
       "id": 1224847,
       "position": 490,
-      "title": "Lil Nas X, 'Old Town Road'",
+      "artist": "Lil Nas X",
+      "title": "Old Town Road",
       "year": "2019",
       "writers": [
          "Atticus Matthew Ross",
@@ -164,7 +175,8 @@
    {
       "id": 1224848,
       "position": 489,
-      "title": "The Breeders, 'Cannonball'",
+      "artist": "The Breeders",
+      "title": "Cannonball",
       "year": "1993",
       "writers": [
          "Kim Deal"
@@ -177,7 +189,8 @@
    {
       "id": 1224849,
       "position": 488,
-      "title": "The Weeknd, 'House of Balloons'",
+      "artist": "The Weeknd",
+      "title": "House of Balloons",
       "year": "2011",
       "writers": [
          "Abel Tesfaye",
@@ -196,7 +209,8 @@
    {
       "id": 1224850,
       "position": 487,
-      "title": "Solange, 'Cranes in the Sky'",
+      "artist": "Solange",
+      "title": "Cranes in the Sky",
       "year": "2016",
       "writers": [
          "Raphael Saadiq",
@@ -210,7 +224,8 @@
    {
       "id": 1224851,
       "position": 486,
-      "title": "Lil Wayne, 'A Milli'",
+      "artist": "Lil Wayne",
+      "title": "A Milli",
       "year": "2009",
       "writers": [
          "Ali Shaheed Jones-Muhammad",
@@ -226,7 +241,8 @@
    {
       "id": 1224852,
       "position": 485,
-      "title": "Azealia Banks, '212'",
+      "artist": "Azealia Banks",
+      "title": "212",
       "year": "2011",
       "writers": [
          "Azealia Banks",
@@ -240,7 +256,8 @@
    {
       "id": 1224853,
       "position": 484,
-      "title": "Weezer, 'Buddy Holly'",
+      "artist": "Weezer",
+      "title": "Buddy Holly",
       "year": "1994",
       "writers": [
          "Rivers Cuomo"
@@ -253,7 +270,8 @@
    {
       "id": 1224854,
       "position": 483,
-      "title": "The Four Tops, 'I Can't Help Myself (Sugar Pie, Honey Bunch)'",
+      "artist": "The Four Tops",
+      "title": "I Can't Help Myself (Sugar Pi",
       "year": "1965",
       "writers": [
          "Brian Holland",
@@ -268,7 +286,8 @@
    {
       "id": 1224855,
       "position": 482,
-      "title": "Lady Gaga, 'Bad Romance'",
+      "artist": "Lady Gaga",
+      "title": "Bad Romance",
       "year": "2009",
       "writers": [
          "Stefani Germanotta",
@@ -282,7 +301,8 @@
    {
       "id": 1224856,
       "position": 481,
-      "title": "Robert Johnson, 'Cross Road Blues'",
+      "artist": "Robert Johnson",
+      "title": "Cross Road Blues",
       "year": "1937",
       "writers": [
          "Robert Johnson"
@@ -295,7 +315,8 @@
    {
       "id": 1224857,
       "position": 480,
-      "title": "Biz Markie, 'Just a Friend'",
+      "artist": "Biz Markie",
+      "title": "Just a Friend",
       "year": "1989",
       "writers": [
          "Marcell Hall",
@@ -309,7 +330,8 @@
    {
       "id": 1224858,
       "position": 479,
-      "title": "Santana, 'Oye Como Va'",
+      "artist": "Santana",
+      "title": "Oye Como Va",
       "year": "1970",
       "writers": [
          "Tito Puente"
@@ -322,7 +344,8 @@
    {
       "id": 1224859,
       "position": 478,
-      "title": "Juvenile feat. Lil Wayne and Mannie Fresh, 'Back That Azz Up'",
+      "artist": "Juvenile feat. Lil Wayne and Mannie Fresh",
+      "title": "Back That Azz Up",
       "year": "1998",
       "writers": [
          "Byron Thomas",
@@ -336,7 +359,8 @@
    {
       "id": 1224860,
       "position": 477,
-      "title": "The Go-Gos, 'Our Lips Are Sealed'",
+      "artist": "The Go-Gos",
+      "title": "Our Lips Are Sealed",
       "year": "1981",
       "writers": [
          "Jane Wiedlin",
@@ -350,7 +374,8 @@
    {
       "id": 1224861,
       "position": 476,
-      "title": "Kris Kristofferson, 'Sunday Mornin' Comin' Down'",
+      "artist": "Kris Kristofferson",
+      "title": "Sunday Mornin' Comin' Down",
       "year": "1970",
       "writers": [
          "Kris Kristofferson"
@@ -363,7 +388,8 @@
    {
       "id": 1224862,
       "position": 475,
-      "title": "Janet Jackson, 'Rhythm Nation'",
+      "artist": "Janet Jackson",
+      "title": "Rhythm Nation",
       "year": "1989",
       "writers": [
          "James Harris",
@@ -379,7 +405,8 @@
    {
       "id": 1224863,
       "position": 474,
-      "title": "Curtis Mayfield, 'Move On Up'",
+      "artist": "Curtis Mayfield",
+      "title": "Move On Up",
       "year": "1970",
       "writers": [
          "Curtis Mayfield"
@@ -392,7 +419,8 @@
    {
       "id": 1224864,
       "position": 473,
-      "title": "Tammy Wynette, 'Stand by Your Man'",
+      "artist": "Tammy Wynette",
+      "title": "Stand by Your Man",
       "year": "1968",
       "writers": [
          "Billy Sherrill",
@@ -406,7 +434,8 @@
    {
       "id": 1224865,
       "position": 472,
-      "title": "Peter Gabriel, 'Solsbury Hill'",
+      "artist": "Peter Gabriel",
+      "title": "Solsbury Hill",
       "year": "1977",
       "writers": [
          "Peter Gabriel"
@@ -419,7 +448,8 @@
    {
       "id": 1224866,
       "position": 471,
-      "title": "The Animals, 'The House of the Rising Sun'",
+      "artist": "The Animals",
+      "title": "The House of the Rising Sun",
       "year": "1964",
       "writers": [
          "Alan Price"
@@ -432,7 +462,8 @@
    {
       "id": 1224867,
       "position": 470,
-      "title": "Gladys Knight and the Pips, 'Midnight Train to Georgia'",
+      "artist": "Gladys Knight and the Pips",
+      "title": "Midnight Train to Georgia",
       "year": "1973",
       "writers": [
          "Jim Weatherly"
@@ -445,7 +476,8 @@
    {
       "id": 1224868,
       "position": 469,
-      "title": "Dixie Chicks, 'Goodbye Earl'",
+      "artist": "Dixie Chicks",
+      "title": "Goodbye Earl",
       "year": "2000",
       "writers": [
          "Dennis Linde"
@@ -458,7 +490,8 @@
    {
       "id": 1224869,
       "position": 468,
-      "title": "Mazzy Star, 'Fade Into You'",
+      "artist": "Mazzy Star",
+      "title": "Fade Into You",
       "year": "1993",
       "writers": [
          "David Roback",
@@ -472,7 +505,8 @@
    {
       "id": 1224870,
       "position": 467,
-      "title": "Nirvana, 'Come as You Are'",
+      "artist": "Nirvana",
+      "title": "Come as You Are",
       "year": "1991",
       "writers": [
          "Kurt Cobain"
@@ -485,7 +519,8 @@
    {
       "id": 1224871,
       "position": 466,
-      "title": "Luther Vandross, 'Never Too Much'",
+      "artist": "Luther Vandross",
+      "title": "Never Too Much",
       "year": "1981",
       "writers": [
          "Luther Vandross"
@@ -498,7 +533,8 @@
    {
       "id": 1224872,
       "position": 465,
-      "title": "Daft Punk feat. Pharrell Williams, 'Get Lucky'",
+      "artist": "Daft Punk feat. Pharrell Williams",
+      "title": "Get Lucky",
       "year": "2013",
       "writers": [
          "Thomas Bangalter",
@@ -514,7 +550,8 @@
    {
       "id": 1224873,
       "position": 464,
-      "title": "Joni Mitchell, 'Help Me'",
+      "artist": "Joni Mitchell",
+      "title": "Help Me",
       "year": "1974",
       "writers": [
          "Joni Mitchell"
@@ -527,7 +564,8 @@
    {
       "id": 1224874,
       "position": 463,
-      "title": "John Lee Hooker, 'Boom Boom'",
+      "artist": "John Lee Hooker",
+      "title": "Boom Boom",
       "year": "1962",
       "writers": [
          "John Lee Hooker"
@@ -540,7 +578,8 @@
    {
       "id": 1224875,
       "position": 462,
-      "title": "Van Morrison, 'Into the Mystic'",
+      "artist": "Van Morrison",
+      "title": "Into the Mystic",
       "year": "1970",
       "writers": [
          "Van Morrison"
@@ -553,7 +592,8 @@
    {
       "id": 1224876,
       "position": 461,
-      "title": "Roy Orbison, 'Crying'",
+      "artist": "Roy Orbison",
+      "title": "Crying",
       "year": "1962",
       "writers": [
          "Joe Melson",
@@ -567,7 +607,8 @@
    {
       "id": 1224877,
       "position": 460,
-      "title": "Steel Pulse, 'Ku Klux Klan'",
+      "artist": "Steel Pulse",
+      "title": "Ku Klux Klan",
       "year": "1978",
       "writers": [
          "David Hinds"
@@ -580,7 +621,8 @@
    {
       "id": 1224878,
       "position": 459,
-      "title": "Sade, 'No Ordinary Love'",
+      "artist": "Sade",
+      "title": "No Ordinary Love",
       "year": "1992",
       "writers": [
          "Helen Adu",
@@ -594,7 +636,8 @@
    {
       "id": 1224879,
       "position": 458,
-      "title": "Beck, 'Loser'",
+      "artist": "Beck",
+      "title": "Loser",
       "year": "1993",
       "writers": [
          "Beck Hansen",
@@ -608,7 +651,8 @@
    {
       "id": 1224880,
       "position": 457,
-      "title": "Bon Jovi, 'Livin' on a Prayer'",
+      "artist": "Bon Jovi",
+      "title": "Livin' on a Prayer",
       "year": "1986",
       "writers": [
          "Desmond Child",
@@ -623,7 +667,8 @@
    {
       "id": 1224881,
       "position": 456,
-      "title": "Lana Del Rey, 'Summertime Sadness'",
+      "artist": "Lana Del Rey",
+      "title": "Summertime Sadness",
       "year": "2012",
       "writers": [
          "Elizabeth Grant",
@@ -637,7 +682,8 @@
    {
       "id": 1224882,
       "position": 455,
-      "title": "Jefferson Airplane, 'White Rabbit'",
+      "artist": "Jefferson Airplane",
+      "title": "White Rabbit",
       "year": "1967",
       "writers": [
          "Grace Slick"
@@ -650,7 +696,8 @@
    {
       "id": 1224883,
       "position": 454,
-      "title": "Sister Nancy, 'Bam Bam'",
+      "artist": "Sister Nancy",
+      "title": "Bam Bam",
       "year": "1982",
       "writers": [
          "Ophlin Russell"
@@ -663,7 +710,8 @@
    {
       "id": 1224884,
       "position": 453,
-      "title": "Missy Elliot, 'The Rain (Supa Dupa Fly)'",
+      "artist": "Missy Elliot",
+      "title": "The Rain (Supa Dupa Fly)",
       "year": "1997",
       "writers": [
          "Melissa Elliott",
@@ -681,7 +729,8 @@
    {
       "id": 1224885,
       "position": 452,
-      "title": "Toto, 'Africa'",
+      "artist": "Toto",
+      "title": "Africa",
       "year": "1982",
       "writers": [
          "David Paich",
@@ -695,7 +744,8 @@
    {
       "id": 1224886,
       "position": 451,
-      "title": "Migos feat. Lil Uzi Vert, 'Bad and Boujee'",
+      "artist": "Migos feat. Lil Uzi Vert",
+      "title": "Bad and Boujee",
       "year": "2016",
       "writers": [
          "Robert Mandell",
@@ -713,7 +763,8 @@
    {
       "id": 1224887,
       "position": 450,
-      "title": "Neil Young, 'Powderfinger'",
+      "artist": "Neil Young",
+      "title": "Powderfinger",
       "year": "1979",
       "writers": [
          "Neil Young"
@@ -726,7 +777,8 @@
    {
       "id": 1224888,
       "position": 449,
-      "title": "Blue Öyster Cult, '(Don’t Fear) The Reaper'",
+      "artist": "Blue Öyster Cult",
+      "title": "(Don’t Fear) The Reaper",
       "year": "1976",
       "writers": [
          "Donald Roeser"
@@ -739,7 +791,8 @@
    {
       "id": 1224889,
       "position": 448,
-      "title": "Erykah Badu, 'Tyrone'",
+      "artist": "Erykah Badu",
+      "title": "Tyrone",
       "year": "1997",
       "writers": [
          "Erica Wright",
@@ -754,7 +807,8 @@
    {
       "id": 1224890,
       "position": 447,
-      "title": "The Beatles, 'Help!'",
+      "artist": "The Beatles",
+      "title": "Help!",
       "year": "1965",
       "writers": [
          "John Lennon",
@@ -768,7 +822,8 @@
    {
       "id": 1224891,
       "position": 446,
-      "title": "Bruce Springsteen, 'Rosalita (Come Out Tonight)'",
+      "artist": "Bruce Springsteen",
+      "title": "Rosalita (Come Out Tonight)",
       "year": "1973",
       "writers": [
          "Bruce Springsteen "
@@ -781,7 +836,8 @@
    {
       "id": 1224892,
       "position": 445,
-      "title": "T. Rex, 'Cosmic Dancer'",
+      "artist": "T. Rex",
+      "title": "Cosmic Dancer",
       "year": "1971",
       "writers": [
          "Marc Bolan"
@@ -794,7 +850,8 @@
    {
       "id": 1224893,
       "position": 444,
-      "title": "50 Cent, 'In Da Club'",
+      "artist": "50 Cent",
+      "title": "In Da Club",
       "year": "2003",
       "writers": [
          "Andre R. Young",
@@ -809,7 +866,8 @@
    {
       "id": 1224894,
       "position": 443,
-      "title": "Fall Out Boy, 'Sugar, We’re Goin Down'",
+      "artist": "Fall Out Boy",
+      "title": "Suga",
       "year": "2005",
       "writers": [
          "Andy Hurley",
@@ -825,7 +883,8 @@
    {
       "id": 1224895,
       "position": 442,
-      "title": "Motörhead, 'Ace of Spades'",
+      "artist": "Motörhead",
+      "title": "Ace of Spades",
       "year": "1980",
       "writers": [
          "Eddie Clarke",
@@ -840,7 +899,8 @@
    {
       "id": 1224896,
       "position": 441,
-      "title": "Miranda Lambert, 'The House That Built Me'",
+      "artist": "Miranda Lambert",
+      "title": "The House That Built Me",
       "year": "2010",
       "writers": [
          "Allen Shamblin",
@@ -854,7 +914,8 @@
    {
       "id": 1224897,
       "position": 440,
-      "title": "Alicia Keys, 'If I Ain't Got You'",
+      "artist": "Alicia Keys",
+      "title": "If I Ain't Got You",
       "year": "2003",
       "writers": [
          "Alicia Keys"
@@ -867,7 +928,8 @@
    {
       "id": 1224898,
       "position": 439,
-      "title": "Celia Cruz, 'La Vida Es un Carnaval'",
+      "artist": "Celia Cruz",
+      "title": "La Vida Es un Carnaval",
       "year": "1998",
       "writers": [
          "Victor Daniel"
@@ -880,7 +942,8 @@
    {
       "id": 1224899,
       "position": 438,
-      "title": "Megan Thee Stallion feat. Beyoncé, 'Savage (Remix)'",
+      "artist": "Megan Thee Stallion feat. Beyoncé",
+      "title": "Savage (Remix)",
       "year": "2020",
       "writers": [
          "Megan Pete",
@@ -902,7 +965,8 @@
    {
       "id": 1224900,
       "position": 437,
-      "title": "Lucinda Williams, 'Passionate Kisses'",
+      "artist": "Lucinda Williams",
+      "title": "Passionate Kisses",
       "year": "1988",
       "writers": [
          "Lucinda Williams"
@@ -915,7 +979,8 @@
    {
       "id": 1224901,
       "position": 436,
-      "title": "Carly Rae Jepsen, 'Call Me Maybe'",
+      "artist": "Carly Rae Jepsen",
+      "title": "Call Me Maybe",
       "year": "2012",
       "writers": [
          "Carly Rae Jepsen",
@@ -930,7 +995,8 @@
    {
       "id": 1224902,
       "position": 435,
-      "title": "Rush, 'Limelight'",
+      "artist": "Rush",
+      "title": "Limelight",
       "year": "1981",
       "writers": [
          "Alex Lifeson",
@@ -945,7 +1011,8 @@
    {
       "id": 1224903,
       "position": 434,
-      "title": "Ramones, 'Sheena Is a Punk Rocker'",
+      "artist": "Ramones",
+      "title": "Sheena Is a Punk Rocker",
       "year": "1977",
       "writers": [
          "Dee Dee Ramone",
@@ -961,7 +1028,8 @@
    {
       "id": 1224905,
       "position": 433,
-      "title": "Pet Shop Boys, 'West End Girls'",
+      "artist": "Pet Shop Boys",
+      "title": "West End Girls",
       "year": "1984",
       "writers": [
          "Chris Lowe",
@@ -975,7 +1043,8 @@
    {
       "id": 1224906,
       "position": 432,
-      "title": "Eddie Cochran, 'Summertime Blues'",
+      "artist": "Eddie Cochran",
+      "title": "Summertime Blues",
       "year": "1958",
       "writers": [
          "Eddie Cochran",
@@ -989,7 +1058,8 @@
    {
       "id": 1224907,
       "position": 431,
-      "title": "Prince, 'Adore'",
+      "artist": "Prince",
+      "title": "Adore",
       "year": "1987",
       "writers": [
          "Prince"
@@ -1002,7 +1072,8 @@
    {
       "id": 1224908,
       "position": 430,
-      "title": "Pete Rock and CL Smooth, 'They Reminisce Over You'",
+      "artist": "Pete Rock and CL Smooth",
+      "title": "They Reminisce Over You",
       "year": "1992",
       "writers": [
          "Maxwell Dixon",
@@ -1016,7 +1087,8 @@
    {
       "id": 1224909,
       "position": 429,
-      "title": "Queen and David Bowie, 'Under Pressure'",
+      "artist": "Queen and David Bowie",
+      "title": "Under Pressure",
       "year": "1981",
       "writers": [
          "Brian May",
@@ -1033,7 +1105,8 @@
    {
       "id": 1224910,
       "position": 428,
-      "title": "Harry Styles, 'Sign of the Times'",
+      "artist": "Harry Styles",
+      "title": "Sign of the Times",
       "year": "2017",
       "writers": [
          "Alex Salibian",
@@ -1051,7 +1124,8 @@
    {
       "id": 1224911,
       "position": 427,
-      "title": "Sugar Hill Gang, 'Rapper's Delight'",
+      "artist": "Sugar Hill Gang",
+      "title": "Rapper's Delight",
       "year": "1979",
       "writers": [
          "Bernard Edwards",
@@ -1067,7 +1141,8 @@
    {
       "id": 1224912,
       "position": 426,
-      "title": "Nicki Minaj, 'Super Bass'",
+      "artist": "Nicki Minaj",
+      "title": "Super Bass",
       "year": "2010",
       "writers": [
          "Daniel Johnson",
@@ -1085,7 +1160,8 @@
    {
       "id": 1224913,
       "position": 425,
-      "title": "Muddy Waters, 'Mannish Boy'",
+      "artist": "Muddy Waters",
+      "title": "Mannish Boy",
       "year": "1955",
       "writers": [
          "Ellas McDaniel",
@@ -1100,7 +1176,8 @@
    {
       "id": 1224914,
       "position": 424,
-      "title": "Blackstreet feat. Dr. Dre and Queen Pen, 'No Diggity'",
+      "artist": "Blackstreet feat. Dr. Dre and Queen Pen",
+      "title": "No Diggity",
       "year": "1996",
       "writers": [
          "Bill Withers",
@@ -1118,7 +1195,8 @@
    {
       "id": 1224915,
       "position": 423,
-      "title": "Fiona Apple, 'Criminal'",
+      "artist": "Fiona Apple",
+      "title": "Criminal",
       "year": "1996",
       "writers": [
          "Fiona Apple"
@@ -1131,7 +1209,8 @@
    {
       "id": 1224916,
       "position": 422,
-      "title": "Craig Mack feat. Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage, 'Flava in Ya Ear (Remix)'",
+      "artist": "Craig Mack feat. Notorious B.I.G.",
+      "title": "L Cool ",
       "year": "1994",
       "writers": [
          "Craig Mack",
@@ -1146,7 +1225,8 @@
    {
       "id": 1224917,
       "position": 421,
-      "title": "The Smiths, 'How Soon Is Now?'",
+      "artist": "The Smiths",
+      "title": "How Soon Is Now?",
       "year": "1984",
       "writers": [
          "Johnny Marr",
@@ -1160,7 +1240,8 @@
    {
       "id": 1224918,
       "position": 420,
-      "title": "The Mamas and the Papas, 'California Dreamin' '",
+      "artist": "The Mamas and the Papas",
+      "title": "California Dreamin' ",
       "year": "1965",
       "writers": [
          "John Phillips",
@@ -1174,7 +1255,8 @@
    {
       "id": 1224919,
       "position": 419,
-      "title": "Mariah Carey, 'Fantasy'",
+      "artist": "Mariah Carey",
+      "title": "Fantasy",
       "year": "1995",
       "writers": [
          "Adrian Belew",
@@ -1192,7 +1274,8 @@
    {
       "id": 1224920,
       "position": 418,
-      "title": "Booker T. and the MGs, 'Green Onions'",
+      "artist": "Booker T. and the MGs",
+      "title": "Green Onions",
       "year": "1962",
       "writers": [
          "Al Jackson Jr.",
@@ -1208,7 +1291,8 @@
    {
       "id": 1224921,
       "position": 417,
-      "title": "Mark Ronson feat. Bruno Mars, 'Uptown Funk'",
+      "artist": "Mark Ronson feat. Bruno Mars",
+      "title": "Uptown Funk",
       "year": "2015",
       "writers": [
          "Charles Wilson",
@@ -1230,7 +1314,8 @@
    {
       "id": 1224922,
       "position": 416,
-      "title": "Pearl Jam, 'Alive'",
+      "artist": "Pearl Jam",
+      "title": "Alive",
       "year": "1991",
       "writers": [
          "Stone Gossard",
@@ -1244,7 +1329,8 @@
    {
       "id": 1224923,
       "position": 415,
-      "title": "Depeche Mode, 'Enjoy the Silence'",
+      "artist": "Depeche Mode",
+      "title": "Enjoy the Silence",
       "year": "1990",
       "writers": [
          "Martin Gore"
@@ -1257,7 +1343,8 @@
    {
       "id": 1224924,
       "position": 414,
-      "title": "Blondie, 'Dreaming'",
+      "artist": "Blondie",
+      "title": "Dreaming",
       "year": "1979",
       "writers": [
          "Debbie Harry",
@@ -1271,7 +1358,8 @@
    {
       "id": 1224925,
       "position": 413,
-      "title": "Them, 'Gloria'",
+      "artist": "Them",
+      "title": "Gloria",
       "year": "1965",
       "writers": [
          "Van Morrison"
@@ -1284,7 +1372,8 @@
    {
       "id": 1224926,
       "position": 412,
-      "title": "Neneh Cherry, 'Buffalo Stance'",
+      "artist": "Neneh Cherry",
+      "title": "Buffalo Stance",
       "year": "1988",
       "writers": [
          "Cameron McVey",
@@ -1300,7 +1389,8 @@
    {
       "id": 1224927,
       "position": 411,
-      "title": "Wilco, 'Heavy Metal Drummer'",
+      "artist": "Wilco",
+      "title": "Heavy Metal Drummer",
       "year": "2002",
       "writers": [
          "Jeff Tweedy"
@@ -1313,7 +1403,8 @@
    {
       "id": 1224928,
       "position": 410,
-      "title": "Allman Brothers Band, 'Whipping Post'",
+      "artist": "Allman Brothers Band",
+      "title": "Whipping Post",
       "year": "1969",
       "writers": [
          "Gregg Allman"
@@ -1326,7 +1417,8 @@
    {
       "id": 1224929,
       "position": 409,
-      "title": "Foo Fighters, 'Everlong'",
+      "artist": "Foo Fighters",
+      "title": "Everlong",
       "year": "1997",
       "writers": [
          "Dave Grohl"
@@ -1339,7 +1431,8 @@
    {
       "id": 1224930,
       "position": 408,
-      "title": "Cat Stevens/Yusuf, 'Father and Son'",
+      "artist": "Cat Stevens/Yusuf",
+      "title": "Father and Son",
       "year": "1970",
       "writers": [
          "Cat Stevens/Yusuf"
@@ -1352,7 +1445,8 @@
    {
       "id": 1224931,
       "position": 407,
-      "title": "Lynyrd Skynyrd, 'Free Bird'",
+      "artist": "Lynyrd Skynyrd",
+      "title": "Free Bird",
       "year": "1973",
       "writers": [
          "Allen Collins",
@@ -1366,7 +1460,8 @@
    {
       "id": 1224932,
       "position": 406,
-      "title": "Run-DMC, 'Sucker MC's'",
+      "artist": "Run-DMC",
+      "title": "Sucker MC's",
       "year": "1984",
       "writers": [
          "Darryl McDaniels",
@@ -1381,7 +1476,8 @@
    {
       "id": 1224933,
       "position": 405,
-      "title": "Selena, 'Amor Prohibido'",
+      "artist": "Selena",
+      "title": "Amor Prohibido",
       "year": "1994",
       "writers": [
          "A.B. Quintanilla III",
@@ -1396,7 +1492,8 @@
    {
       "id": 1224934,
       "position": 404,
-      "title": "Kiss, 'Rock and Roll All Nite'",
+      "artist": "Kiss",
+      "title": "Rock and Roll All Nite",
       "year": "1975",
       "writers": [
          "Gene Simmons",
@@ -1410,7 +1507,8 @@
    {
       "id": 1224935,
       "position": 403,
-      "title": "Rufus and Chaka Khan, 'Ain’t Nobody'",
+      "artist": "Rufus and Chaka Khan",
+      "title": "Ain’t Nobody",
       "year": "1983",
       "writers": [
          "David Wolinski"
@@ -1423,7 +1521,8 @@
    {
       "id": 1224936,
       "position": 402,
-      "title": "Bill Withers, 'Lovely Day'",
+      "artist": "Bill Withers",
+      "title": "Lovely Day",
       "year": "1977",
       "writers": [
          "Bill Withers",
@@ -1437,7 +1536,8 @@
    {
       "id": 1224937,
       "position": 401,
-      "title": "Fleetwood Mac, 'Go Your Own Way'",
+      "artist": "Fleetwood Mac",
+      "title": "Go Your Own Way",
       "year": "1977",
       "writers": [
          "Lindsey Buckingham"
@@ -1450,7 +1550,8 @@
    {
       "id": 1224938,
       "position": 400,
-      "title": "David Bowie, 'Station to Station'",
+      "artist": "David Bowie",
+      "title": "Station to Station",
       "year": "1976",
       "writers": [
          "David Bowie"
@@ -1463,7 +1564,8 @@
    {
       "id": 1224939,
       "position": 399,
-      "title": "Sylvester, 'You Make Me Feel (Mighty Real)'",
+      "artist": "Sylvester",
+      "title": "You Make Me Feel (Mighty Real)",
       "year": "1978",
       "writers": [
          "Sylvester",
@@ -1477,7 +1579,8 @@
    {
       "id": 1224940,
       "position": 398,
-      "title": "Duran Duran, 'Hungry Like the Wolf'",
+      "artist": "Duran Duran",
+      "title": "Hungry Like the Wolf",
       "year": "1982",
       "writers": [
          "Andy Taylor",
@@ -1494,7 +1597,8 @@
    {
       "id": 1224941,
       "position": 397,
-      "title": "Public Enemy, 'Bring the Noise'",
+      "artist": "Public Enemy",
+      "title": "Bring the Noise",
       "year": "1987",
       "writers": [
          "Carlton Ridenhour",
@@ -1514,7 +1618,8 @@
    {
       "id": 1224942,
       "position": 396,
-      "title": "Elvis Costello, 'Alison'",
+      "artist": "Elvis Costello",
+      "title": "Alison",
       "year": "1977",
       "writers": [
          "Elvis Costello"
@@ -1527,7 +1632,8 @@
    {
       "id": 1224943,
       "position": 395,
-      "title": "Afrika Bambaataa and the Soulsonic Force, 'Planet Rock'",
+      "artist": "Afrika Bambaataa and the Soulsonic Force",
+      "title": "Planet Rock",
       "year": "1982",
       "writers": [
          "Arthur Baker",
@@ -1546,7 +1652,8 @@
    {
       "id": 1224944,
       "position": 394,
-      "title": "Jeff Buckley, 'Grace'",
+      "artist": "Jeff Buckley",
+      "title": "Grace",
       "year": "1994",
       "writers": [
          "Gary Lucas",
@@ -1560,7 +1667,8 @@
    {
       "id": 1224945,
       "position": 393,
-      "title": "James Brown, 'Say It Loud (I’m Black and I’m Proud)'",
+      "artist": "James Brown",
+      "title": "Say It Loud (I’m Black and I’m Proud)",
       "year": "1968",
       "writers": [
          "Alfred Ellis",
@@ -1574,7 +1682,8 @@
    {
       "id": 1224946,
       "position": 392,
-      "title": "Coldplay, 'Fix You'",
+      "artist": "Coldplay",
+      "title": "Fix You",
       "year": "2005",
       "writers": [
          "Chris Martin",
@@ -1590,7 +1699,8 @@
    {
       "id": 1224947,
       "position": 391,
-      "title": "Eric Church, 'Springsteen'",
+      "artist": "Eric Church",
+      "title": "Springsteen",
       "year": "2011",
       "writers": [
          "Eric Church",
@@ -1605,7 +1715,8 @@
    {
       "id": 1224948,
       "position": 390,
-      "title": "Metallica, 'Enter Sandman'",
+      "artist": "Metallica",
+      "title": "Enter Sandman",
       "year": "1991",
       "writers": [
          "James Hetfield",
@@ -1620,7 +1731,8 @@
    {
       "id": 1224949,
       "position": 389,
-      "title": "Pretenders, 'Brass in Pocket'",
+      "artist": "Pretenders",
+      "title": "Brass in Pocket",
       "year": "1979",
       "writers": [
          "Chrissie Hynde",
@@ -1634,7 +1746,8 @@
    {
       "id": 1224950,
       "position": 388,
-      "title": "DMX, 'Party Up (Up in Here)'",
+      "artist": "DMX",
+      "title": "Party Up (Up in Here)",
       "year": "1999",
       "writers": [
          "Earl Simmons",
@@ -1648,7 +1761,8 @@
    {
       "id": 1224951,
       "position": 387,
-      "title": "New York Dolls, 'Personality Crisis'",
+      "artist": "New York Dolls",
+      "title": "Personality Crisis",
       "year": "1973",
       "writers": [
          "David Johansen",
@@ -1662,7 +1776,8 @@
    {
       "id": 1224952,
       "position": 386,
-      "title": "The Kinks, 'Lola'",
+      "artist": "The Kinks",
+      "title": "Lola",
       "year": "1970",
       "writers": [
          "Ray Davies"
@@ -1675,7 +1790,8 @@
    {
       "id": 1224953,
       "position": 385,
-      "title": "Diana Ross, 'I'm Coming Out'",
+      "artist": "Diana Ross",
+      "title": "I'm Coming Out",
       "year": "1980",
       "writers": [
          "Bernard Edwards",
@@ -1689,7 +1805,8 @@
    {
       "id": 1224954,
       "position": 384,
-      "title": "Cardi B, J Balvin, and Bad Bunny, 'I Like It'",
+      "artist": "Cardi B",
+      "title": " Balvi",
       "year": "2018",
       "writers": [
          "Tainy",
@@ -1717,7 +1834,8 @@
    {
       "id": 1224955,
       "position": 383,
-      "title": "Childish Gambino, 'Redbone'",
+      "artist": "Childish Gambino",
+      "title": "Redbone",
       "year": "2016",
       "writers": [
          "Ludwig Göransson",
@@ -1731,7 +1849,8 @@
    {
       "id": 1224956,
       "position": 382,
-      "title": "Fiona Apple, 'Paper Bag'",
+      "artist": "Fiona Apple",
+      "title": "Paper Bag",
       "year": "1999",
       "writers": [
          "Fiona Apple"
@@ -1744,7 +1863,8 @@
    {
       "id": 1224957,
       "position": 381,
-      "title": "The Slits, 'Typical Girls'",
+      "artist": "The Slits",
+      "title": "Typical Girls",
       "year": "1979",
       "writers": [
          "Ariane Forster",
@@ -1760,7 +1880,8 @@
    {
       "id": 1224958,
       "position": 380,
-      "title": "Fountains of Wayne, 'Radiation Vibe'",
+      "artist": "Fountains of Wayne",
+      "title": "Radiation Vibe",
       "year": "1996",
       "writers": [
          "Chris Collingwood",
@@ -1774,7 +1895,8 @@
    {
       "id": 1224959,
       "position": 379,
-      "title": "D’Angelo, 'Untitled (How Does It Feel)'",
+      "artist": "D’Angelo",
+      "title": "Untitled (How Does It Feel)",
       "year": "2000",
       "writers": [
          "D’Angelo",
@@ -1788,7 +1910,8 @@
    {
       "id": 1224960,
       "position": 378,
-      "title": "The Killers, 'Mr. Brightside'",
+      "artist": "The Killers",
+      "title": "Mr. Brightside",
       "year": "2003",
       "writers": [
          "Brandon Flowers",
@@ -1802,7 +1925,8 @@
    {
       "id": 1224961,
       "position": 377,
-      "title": "The Cure, 'Pictures of You'",
+      "artist": "The Cure",
+      "title": "Pictures of You",
       "year": "1989",
       "writers": [
          "Boris Williams",
@@ -1820,7 +1944,8 @@
    {
       "id": 1224962,
       "position": 376,
-      "title": "Merle Haggard, 'Mama Tried'",
+      "artist": "Merle Haggard",
+      "title": "Mama Tried",
       "year": "1968",
       "writers": [
          "Merle Haggard"
@@ -1833,7 +1958,8 @@
    {
       "id": 1224963,
       "position": 375,
-      "title": "The Drifters, 'Up on the Roof'",
+      "artist": "The Drifters",
+      "title": "Up on the Roof",
       "year": "1964",
       "writers": [
          "Carole King",
@@ -1847,7 +1973,8 @@
    {
       "id": 1224964,
       "position": 374,
-      "title": "William DeVaughn, 'Be Thankful for What You Got'",
+      "artist": "William DeVaughn",
+      "title": "Be Thankful for What You Got",
       "year": "1974",
       "writers": [
          "William DeVaughn"
@@ -1860,7 +1987,8 @@
    {
       "id": 1224965,
       "position": 373,
-      "title": "Drake, 'Hotline Bling'",
+      "artist": "Drake",
+      "title": "Hotline Bling",
       "year": "2015",
       "writers": [
          "Aubrey Graham",
@@ -1875,7 +2003,8 @@
    {
       "id": 1224966,
       "position": 372,
-      "title": "Bonnie Raitt, 'I Can't Make You Love Me'",
+      "artist": "Bonnie Raitt",
+      "title": "I Can't Make You Love Me",
       "year": "1991",
       "writers": [
          "Michael Reid",
@@ -1889,7 +2018,8 @@
    {
       "id": 1224967,
       "position": 371,
-      "title": "Elton John, 'Bennie and the Jets'",
+      "artist": "Elton John",
+      "title": "Bennie and the Jets",
       "year": "1973",
       "writers": [
          "Bernie Taupin",
@@ -1903,7 +2033,8 @@
    {
       "id": 1224968,
       "position": 370,
-      "title": "Buddy Holly, 'Peggy Sue'",
+      "artist": "Buddy Holly",
+      "title": "Peggy Sue",
       "year": "1958",
       "writers": [
          "Buddy Holly",
@@ -1918,7 +2049,8 @@
    {
       "id": 1224969,
       "position": 369,
-      "title": "The Cars, 'Just What I Needed'",
+      "artist": "The Cars",
+      "title": "Just What I Needed",
       "year": "1978",
       "writers": [
          "Ric Ocasek"
@@ -1931,7 +2063,8 @@
    {
       "id": 1224970,
       "position": 368,
-      "title": "Soundgarden, 'Black Hole Sun'",
+      "artist": "Soundgarden",
+      "title": "Black Hole Sun",
       "year": "1994",
       "writers": [
          "Chris Cornell"
@@ -1944,7 +2077,8 @@
    {
       "id": 1224971,
       "position": 367,
-      "title": "Frank Ocean, 'Thinkin Bout You'",
+      "artist": "Frank Ocean",
+      "title": "Thinkin Bout You",
       "year": "2012",
       "writers": [
          "Shea Taylor",
@@ -1958,7 +2092,8 @@
    {
       "id": 1224972,
       "position": 366,
-      "title": "The Crystals, 'Da Doo Ron Ron'",
+      "artist": "The Crystals",
+      "title": "Da Doo Ron Ron",
       "year": "1963",
       "writers": [
          "Ellie Greenwich",
@@ -1973,7 +2108,8 @@
    {
       "id": 1224973,
       "position": 365,
-      "title": "Sex Pistols, 'God Save the Queen'",
+      "artist": "Sex Pistols",
+      "title": "God Save the Queen",
       "year": "1977",
       "writers": [
          "Glen Matlock",
@@ -1989,7 +2125,8 @@
    {
       "id": 1224974,
       "position": 364,
-      "title": "The Grateful Dead, 'Box of Rain'",
+      "artist": "The Grateful Dead",
+      "title": "Box of Rain",
       "year": "1970",
       "writers": [
          "Phil Lesh",
@@ -2003,7 +2140,8 @@
    {
       "id": 1224975,
       "position": 363,
-      "title": "Bob Marley and the Wailers, 'Could You Be Loved'",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Could You Be Loved",
       "year": "1980",
       "writers": [
          "Bob Marley"
@@ -2016,7 +2154,8 @@
    {
       "id": 1224976,
       "position": 362,
-      "title": "Kacey Musgraves, 'Merry Go 'Round'",
+      "artist": "Kacey Musgraves",
+      "title": "Merry Go 'Round",
       "year": "2013",
       "writers": [
          "Kacey Musgraves",
@@ -2031,7 +2170,8 @@
    {
       "id": 1224977,
       "position": 361,
-      "title": "Jimmy Cliff, 'The Harder They Come'",
+      "artist": "Jimmy Cliff",
+      "title": "The Harder They Come",
       "year": "1972",
       "writers": [
          "Jimmy Cliff"
@@ -2044,7 +2184,8 @@
    {
       "id": 1224978,
       "position": 360,
-      "title": "Prince, 'Little Red Corvette'",
+      "artist": "Prince",
+      "title": "Little Red Corvette",
       "year": "1982",
       "writers": [
          "Prince"
@@ -2057,7 +2198,8 @@
    {
       "id": 1224979,
       "position": 359,
-      "title": "Fugees, 'Killing Me Softly With His Song'",
+      "artist": "Fugees",
+      "title": "Killing Me Softly With His Song",
       "year": "1996",
       "writers": [
          "Norman Gamble",
@@ -2071,7 +2213,8 @@
    {
       "id": 1224980,
       "position": 358,
-      "title": "Patti Smith, 'Because the Night'",
+      "artist": "Patti Smith",
+      "title": "Because the Night",
       "year": "1978",
       "writers": [
          "Patti Smith",
@@ -2085,7 +2228,8 @@
    {
       "id": 1224981,
       "position": 357,
-      "title": "Taylor Swift, 'Blank Space'",
+      "artist": "Taylor Swift",
+      "title": "Blank Space",
       "year": "2014",
       "writers": [
          "Taylor Swift",
@@ -2100,7 +2244,8 @@
    {
       "id": 1224982,
       "position": 356,
-      "title": "Cheap Trick, 'Surrender'",
+      "artist": "Cheap Trick",
+      "title": "Surrender",
       "year": "1978",
       "writers": [
          "Rick Nielsen"
@@ -2113,7 +2258,8 @@
    {
       "id": 1224983,
       "position": 355,
-      "title": "Thelma Houston, 'Don't Leave Me This Way'",
+      "artist": "Thelma Houston",
+      "title": "Don't Leave Me This Way",
       "year": "1976",
       "writers": [
          "Cary Gilbert",
@@ -2128,7 +2274,8 @@
    {
       "id": 1224984,
       "position": 354,
-      "title": "Michael Jackson, 'Rock With You'",
+      "artist": "Michael Jackson",
+      "title": "Rock With You",
       "year": "1979",
       "writers": [
          "Rod Temperton"
@@ -2141,7 +2288,8 @@
    {
       "id": 1224985,
       "position": 353,
-      "title": "Eurythmics, 'Sweet Dreams (Are Made of This)'",
+      "artist": "Eurythmics",
+      "title": "Sweet Dreams (Are Made of This)",
       "year": "1983",
       "writers": [
          "Annie Lennox",
@@ -2155,7 +2303,8 @@
    {
       "id": 1224986,
       "position": 352,
-      "title": "Ice Cube, 'It Was a Good Day'",
+      "artist": "Ice Cube",
+      "title": "It Was a Good Day",
       "year": "1992",
       "writers": [
          "O'Shea Jackson"
@@ -2168,7 +2317,8 @@
    {
       "id": 1224987,
       "position": 351,
-      "title": "Jorge Ben, 'Ponta de Lança Africano (Umbabarauma)'",
+      "artist": "Jorge Ben",
+      "title": "Ponta de Lança Africano (Umbabarauma)",
       "year": "1976",
       "writers": [
          "Jorge Ben"
@@ -2181,7 +2331,8 @@
    {
       "id": 1224988,
       "position": 350,
-      "title": "John Prine, 'Angel From Montgomery'",
+      "artist": "John Prine",
+      "title": "Angel From Montgomery",
       "year": "1971",
       "writers": [
          "John Prine"
@@ -2194,7 +2345,8 @@
    {
       "id": 1224989,
       "position": 349,
-      "title": "The Zombies, 'Time of the Season'",
+      "artist": "The Zombies",
+      "title": "Time of the Season",
       "year": "1968",
       "writers": [
          "Rod Argent"
@@ -2207,7 +2359,8 @@
    {
       "id": 1224990,
       "position": 348,
-      "title": "Roxy Music, 'Virginia Plain'",
+      "artist": "Roxy Music",
+      "title": "Virginia Plain",
       "year": "1972",
       "writers": [
          "Bryan Ferry"
@@ -2220,7 +2373,8 @@
    {
       "id": 1224991,
       "position": 347,
-      "title": "Elvis Presley, 'Heartbreak Hotel'",
+      "artist": "Elvis Presley",
+      "title": "Heartbreak Hotel",
       "year": "1958",
       "writers": [
          "Mae Boren Axton",
@@ -2235,7 +2389,8 @@
    {
       "id": 1224992,
       "position": 346,
-      "title": "BTS, 'Dynamite'",
+      "artist": "BTS",
+      "title": "Dynamite",
       "year": "2020",
       "writers": [
          "David Stewart",
@@ -2249,7 +2404,8 @@
    {
       "id": 1224993,
       "position": 345,
-      "title": "Carole King, 'It’s Too Late'",
+      "artist": "Carole King",
+      "title": "It’s Too Late",
       "year": "1971",
       "writers": [
          "Carole King",
@@ -2263,7 +2419,8 @@
    {
       "id": 1224994,
       "position": 344,
-      "title": "Black Sabbath, 'Iron Man'",
+      "artist": "Black Sabbath",
+      "title": "Iron Man",
       "year": "1971",
       "writers": [
          "Bill Ward",
@@ -2279,7 +2436,8 @@
    {
       "id": 1224995,
       "position": 343,
-      "title": "The Doobie Brothers, 'What a Fool Believes'",
+      "artist": "The Doobie Brothers",
+      "title": "What a Fool Believes",
       "year": "1979",
       "writers": [
          "Kenny Loggins",
@@ -2293,7 +2451,8 @@
    {
       "id": 1224996,
       "position": 342,
-      "title": "Chuck Berry, 'Promised Land'",
+      "artist": "Chuck Berry",
+      "title": "Promised Land",
       "year": "1964",
       "writers": [
          "Chuck Berry"
@@ -2306,7 +2465,8 @@
    {
       "id": 1224997,
       "position": 341,
-      "title": "The Monkees, 'I'm a Believer'",
+      "artist": "The Monkees",
+      "title": "I'm a Believer",
       "year": "1966",
       "writers": [
          "Neil Diamond"
@@ -2319,7 +2479,8 @@
    {
       "id": 1224998,
       "position": 340,
-      "title": "The Clash, '(White Man) in Hammersmith Palais'",
+      "artist": "The Clash",
+      "title": "(White Man) in Hammersmith Palais",
       "year": "1978",
       "writers": [
          "Mick Jones",
@@ -2333,7 +2494,8 @@
    {
       "id": 1224999,
       "position": 339,
-      "title": "Prince, '1999'",
+      "artist": "Prince",
+      "title": "1999",
       "year": "1982",
       "writers": [
          "Prince"
@@ -2346,7 +2508,8 @@
    {
       "id": 1225000,
       "position": 338,
-      "title": "Black Sabbath, 'Paranoid'",
+      "artist": "Black Sabbath",
+      "title": "Paranoid",
       "year": "1970",
       "writers": [
          "Geezer Butler",
@@ -2362,7 +2525,8 @@
    {
       "id": 1225001,
       "position": 337,
-      "title": "Cher, 'Believe'",
+      "artist": "Cher",
+      "title": "Believe",
       "year": "1998",
       "writers": [
          " Brian Higgins",
@@ -2381,7 +2545,8 @@
    {
       "id": 1225002,
       "position": 336,
-      "title": "Hall and Oates, 'She’s Gone'",
+      "artist": "Hall and Oates",
+      "title": "She’s Gone",
       "year": "1973",
       "writers": [
          "Daryl Hall",
@@ -2395,7 +2560,8 @@
    {
       "id": 1225003,
       "position": 335,
-      "title": "Marshall Jefferson, 'Move Your Body (The House Music Anthem)'",
+      "artist": "Marshall Jefferson",
+      "title": "Move Your Body (The House Music Anthem)",
       "year": "1986",
       "writers": [
          "Marshall Jefferson"
@@ -2408,7 +2574,8 @@
    {
       "id": 1225004,
       "position": 334,
-      "title": "The Grateful Dead, 'Ripple'",
+      "artist": "The Grateful Dead",
+      "title": "Ripple",
       "year": "1970",
       "writers": [
          "Jerry Garcia",
@@ -2422,7 +2589,8 @@
    {
       "id": 1225005,
       "position": 333,
-      "title": "The Temptations, 'Papa Was a Rollin' Stone'",
+      "artist": "The Temptations",
+      "title": "Papa Was a Rollin' Stone",
       "year": "1972",
       "writers": [
          "Norman Whitfield",
@@ -2436,7 +2604,8 @@
    {
       "id": 1225006,
       "position": 332,
-      "title": "Rihanna feat. Jay-Z, 'Umbrella'",
+      "artist": "Rihanna feat. Jay-Z",
+      "title": "Umbrella",
       "year": "2007",
       "writers": [
          "Christopher Stewart",
@@ -2452,7 +2621,8 @@
    {
       "id": 1225007,
       "position": 331,
-      "title": "The Marvelettes, 'Please Mr. Postman'",
+      "artist": "The Marvelettes",
+      "title": "Please Mr. Postman",
       "year": "1961",
       "writers": [
          "Georgia Dobbins",
@@ -2469,7 +2639,8 @@
    {
       "id": 1225008,
       "position": 330,
-      "title": "The Notorious B.I.G., 'Big Poppa'",
+      "artist": "The Notorious B.I.G.",
+      "title": "Big Poppa",
       "year": "1994",
       "writers": [
          "Christopher Wallace",
@@ -2488,7 +2659,8 @@
    {
       "id": 1225009,
       "position": 329,
-      "title": "Bad Bunny, 'Safaera'",
+      "artist": "Bad Bunny",
+      "title": "Safaera",
       "year": "2020",
       "writers": [
          "Sly Dunbar",
@@ -2516,7 +2688,8 @@
    {
       "id": 1225010,
       "position": 328,
-      "title": "Red Hot Chili Peppers, 'Under the Bridge'",
+      "artist": "Red Hot Chili Peppers",
+      "title": "Under the Bridge",
       "year": "1991",
       "writers": [
          "Anthony Kiedis",
@@ -2532,7 +2705,8 @@
    {
       "id": 1225011,
       "position": 327,
-      "title": "Mary J. Blige, 'Real Love'",
+      "artist": "Mary J. Blige",
+      "title": "Real Love",
       "year": "1992",
       "writers": [
          "Mark Rooney",
@@ -2546,7 +2720,8 @@
    {
       "id": 1225012,
       "position": 326,
-      "title": "Rilo Kiley, 'Portions for Foxes'",
+      "artist": "Rilo Kiley",
+      "title": "Portions for Foxes",
       "year": "2004",
       "writers": [
          "Jenny Lewis",
@@ -2560,7 +2735,8 @@
    {
       "id": 1225013,
       "position": 325,
-      "title": "Iggy Pop, 'Lust for Life'",
+      "artist": "Iggy Pop",
+      "title": "Lust for Life",
       "year": "1977",
       "writers": [
          "David Bowie",
@@ -2574,7 +2750,8 @@
    {
       "id": 1225014,
       "position": 324,
-      "title": "Billy Joel, 'Scenes From an Italian Restaurant'",
+      "artist": "Billy Joel",
+      "title": "Scenes From an Italian Restaurant",
       "year": "1977",
       "writers": [
          "Billy Joel"
@@ -2587,7 +2764,8 @@
    {
       "id": 1225015,
       "position": 323,
-      "title": "Everly Brothers, 'All I Have to Do Is Dream'",
+      "artist": "Everly Brothers",
+      "title": "All I Have to Do Is Dream",
       "year": "1958",
       "writers": [
          "Boudleaux Bryant",
@@ -2601,7 +2779,8 @@
    {
       "id": 1225016,
       "position": 322,
-      "title": "Neil Young, 'After the Gold Rush'",
+      "artist": "Neil Young",
+      "title": "After the Gold Rush",
       "year": "1970",
       "writers": [
          "Neil Young"
@@ -2614,7 +2793,8 @@
    {
       "id": 1225017,
       "position": 321,
-      "title": "U2, 'I Still Haven’t Found What I’m Looking For'",
+      "artist": "U2",
+      "title": "I Still Haven’t Found What I’m Looking For",
       "year": "1987",
       "writers": [
          "Bono",
@@ -2630,7 +2810,8 @@
    {
       "id": 1225018,
       "position": 320,
-      "title": "2Pac, 'California Love'",
+      "artist": "2Pac",
+      "title": "California Love",
       "year": "1995",
       "writers": [
          "Tupac Shakur",
@@ -2649,7 +2830,8 @@
    {
       "id": 1225019,
       "position": 319,
-      "title": "Tears for Fears, 'Everybody Wants to Rule the World'",
+      "artist": "Tears for Fears",
+      "title": "Everybody Wants to Rule the World",
       "year": "1985",
       "writers": [
          "Roland Orzabal",
@@ -2664,7 +2846,8 @@
    {
       "id": 1225020,
       "position": 318,
-      "title": "Big Mama Thornton, 'Hound Dog'",
+      "artist": "Big Mama Thornton",
+      "title": "Hound Dog",
       "year": "1953",
       "writers": [
          "Jerry Leiber",
@@ -2678,7 +2861,8 @@
    {
       "id": 1225021,
       "position": 317,
-      "title": "Bob Dylan, 'Visions of Johanna'",
+      "artist": "Bob Dylan",
+      "title": "Visions of Johanna",
       "year": "1966",
       "writers": [
          "Bob Dylan"
@@ -2691,7 +2875,8 @@
    {
       "id": 1225022,
       "position": 316,
-      "title": "The Shangri-Las, 'Leader of the Pack'",
+      "artist": "The Shangri-Las",
+      "title": "Leader of the Pack",
       "year": "1964",
       "writers": [
          "George Francis Morton",
@@ -2706,7 +2891,8 @@
    {
       "id": 1225023,
       "position": 315,
-      "title": "John Coltrane, 'Pt. 1-Acknowledgement'",
+      "artist": "John Coltrane",
+      "title": "Pt. 1-Acknowledgement",
       "year": "1965",
       "writers": [
          "John Coltrane"
@@ -2719,7 +2905,8 @@
    {
       "id": 1225024,
       "position": 314,
-      "title": "The Stooges, 'I Wanna Be Your Dog'",
+      "artist": "The Stooges",
+      "title": "I Wanna Be Your Dog",
       "year": "1969",
       "writers": [
          "Dave Alexander",
@@ -2735,7 +2922,8 @@
    {
       "id": 1225025,
       "position": 313,
-      "title": "Smokey Robinson and the Miracles, 'The Tears of a Clown'",
+      "artist": "Smokey Robinson and the Miracles",
+      "title": "The Tears of a Clown",
       "year": "1967",
       "writers": [
          "Henry Cosby",
@@ -2750,7 +2938,8 @@
    {
       "id": 1225026,
       "position": 312,
-      "title": "Isaac Hayes, 'Walk on By'",
+      "artist": "Isaac Hayes",
+      "title": "Walk on By",
       "year": "1969",
       "writers": [
          "Burt Bacharach",
@@ -2764,7 +2953,8 @@
    {
       "id": 1225027,
       "position": 311,
-      "title": "The Eagles, 'Hotel California'",
+      "artist": "The Eagles",
+      "title": "Hotel California",
       "year": "1976",
       "writers": [
          "Don Felder",
@@ -2779,7 +2969,8 @@
    {
       "id": 1225028,
       "position": 310,
-      "title": "The Doors, 'Light My Fire'",
+      "artist": "The Doors",
+      "title": "Light My Fire",
       "year": "1967",
       "writers": [
          "Robby Krieger",
@@ -2795,7 +2986,8 @@
    {
       "id": 1225029,
       "position": 309,
-      "title": "Bill Withers, 'Ain't No Sunshine'",
+      "artist": "Bill Withers",
+      "title": "Ain't No Sunshine",
       "year": "1971",
       "writers": [
          "Bill Withers"
@@ -2808,7 +3000,8 @@
    {
       "id": 1225030,
       "position": 308,
-      "title": "Liz Phair, 'Divorce Song'",
+      "artist": "Liz Phair",
+      "title": "Divorce Song",
       "year": "1993",
       "writers": [
          "Liz Phair"
@@ -2821,7 +3014,8 @@
    {
       "id": 1225031,
       "position": 307,
-      "title": "Gnarls Barkley, 'Crazy'",
+      "artist": "Gnarls Barkley",
+      "title": "Crazy",
       "year": "2006",
       "writers": [
          "Brian Burton",
@@ -2837,7 +3031,8 @@
    {
       "id": 1225032,
       "position": 306,
-      "title": "Aretha Franklin, 'Chain of Fools'",
+      "artist": "Aretha Franklin",
+      "title": "Chain of Fools",
       "year": "1967",
       "writers": [
          "Don Covay"
@@ -2850,7 +3045,8 @@
    {
       "id": 1225033,
       "position": 305,
-      "title": "The Police, 'Every Breath You Take'",
+      "artist": "The Police",
+      "title": "Every Breath You Take",
       "year": "1983",
       "writers": [
          "Sting"
@@ -2863,7 +3059,8 @@
    {
       "id": 1225034,
       "position": 304,
-      "title": "Kraftwerk, 'Trans-Europe Express'",
+      "artist": "Kraftwerk",
+      "title": "Trans-Europe Express",
       "year": "1977",
       "writers": [
          "Ralf Hütter",
@@ -2877,7 +3074,8 @@
    {
       "id": 1225035,
       "position": 303,
-      "title": "TLC, 'No Scrubs'",
+      "artist": "TLC",
+      "title": "No Scrubs",
       "year": "1999",
       "writers": [
          "Kandi Burruss",
@@ -2892,7 +3090,8 @@
    {
       "id": 1225036,
       "position": 302,
-      "title": "Pink Floyd, 'Wish You Were Here'",
+      "artist": "Pink Floyd",
+      "title": "Wish You Were Here",
       "year": "1975",
       "writers": [
          "David Gilmour",
@@ -2906,7 +3105,8 @@
    {
       "id": 1225037,
       "position": 301,
-      "title": "Bob Seger, 'Night Moves'",
+      "artist": "Bob Seger",
+      "title": "Night Moves",
       "year": "1976",
       "writers": [
          "Bob Seger"
@@ -2919,7 +3119,8 @@
    {
       "id": 1225038,
       "position": 300,
-      "title": "The B-52's, 'Rock Lobster'",
+      "artist": "The B-52's",
+      "title": "Rock Lobster",
       "year": "1978",
       "writers": [
          "Fred Schneider",
@@ -2933,7 +3134,8 @@
    {
       "id": 1225039,
       "position": 299,
-      "title": "Screamin’ Jay Hawkins, 'I Put a Spell on You'",
+      "artist": "Screamin’ Jay Hawkins",
+      "title": "I Put a Spell on You",
       "year": "1956",
       "writers": [
          "Jalacy Hawkins",
@@ -2947,7 +3149,8 @@
    {
       "id": 1225040,
       "position": 298,
-      "title": "Bruce Springsteen, 'Jungleland'",
+      "artist": "Bruce Springsteen",
+      "title": "Jungleland",
       "year": "1975",
       "writers": [
          "Bruce Springsteen"
@@ -2960,7 +3163,8 @@
    {
       "id": 1225041,
       "position": 297,
-      "title": "Beach Boys, 'Wouldn’t It Be Nice'",
+      "artist": "Beach Boys",
+      "title": "Wouldn’t It Be Nice",
       "year": "1966",
       "writers": [
          "Brian Wilson",
@@ -2975,7 +3179,8 @@
    {
       "id": 1225042,
       "position": 296,
-      "title": "Bikini Kill, 'Rebel Girl'",
+      "artist": "Bikini Kill",
+      "title": "Rebel Girl",
       "year": "1993",
       "writers": [
          "Kathleen Hanna",
@@ -2991,7 +3196,8 @@
    {
       "id": 1225043,
       "position": 295,
-      "title": "The Who, 'Won't Get Fooled Again'",
+      "artist": "The Who",
+      "title": "Won't Get Fooled Again",
       "year": "1971",
       "writers": [
          "Pete Townshend"
@@ -3004,7 +3210,8 @@
    {
       "id": 1225044,
       "position": 294,
-      "title": "The Velvet Underground, 'Sweet Jane'",
+      "artist": "The Velvet Underground",
+      "title": "Sweet Jane",
       "year": "1970",
       "writers": [
          "Lou Reed"
@@ -3017,7 +3224,8 @@
    {
       "id": 1225045,
       "position": 293,
-      "title": "Alice Cooper, 'School’s Out'",
+      "artist": "Alice Cooper",
+      "title": "School’s Out",
       "year": "1972",
       "writers": [
          "Alice Cooper",
@@ -3034,7 +3242,8 @@
    {
       "id": 1225046,
       "position": 292,
-      "title": "A Tribe Called Quest, 'Can I Kick It?'",
+      "artist": "A Tribe Called Quest",
+      "title": "Can I Kick It?",
       "year": "1990",
       "writers": [
          "Lou Reed"
@@ -3047,7 +3256,8 @@
    {
       "id": 1225047,
       "position": 291,
-      "title": "Phil Collins, 'In the Air Tonight'",
+      "artist": "Phil Collins",
+      "title": "In the Air Tonight",
       "year": "1981",
       "writers": [
          "Phil Collins"
@@ -3060,7 +3270,8 @@
    {
       "id": 1225048,
       "position": 290,
-      "title": "Usher feat. Lil Jon and Ludacris, 'Yeah!'",
+      "artist": "Usher feat. Lil Jon and Ludacris",
+      "title": "Yeah!",
       "year": "2004",
       "writers": [
          "Christopher Bridges",
@@ -3078,7 +3289,8 @@
    {
       "id": 1225049,
       "position": 289,
-      "title": "Bruce Springsteen, 'Atlantic City'",
+      "artist": "Bruce Springsteen",
+      "title": "Atlantic City",
       "year": "1982",
       "writers": [
          "Bruce Springsteen"
@@ -3091,7 +3303,8 @@
    {
       "id": 1225050,
       "position": 288,
-      "title": "The Funky 4 + 1, 'That's the Joint'",
+      "artist": "The Funky 4 + 1",
+      "title": "That's the Joint",
       "year": "1980",
       "writers": [
          "Clifton \"Jiggs\" Chase",
@@ -3110,7 +3323,8 @@
    {
       "id": 1225051,
       "position": 287,
-      "title": "AC/DC, 'You Shook Me All Night Long'",
+      "artist": "AC/DC",
+      "title": "You Shook Me All Night Long",
       "year": "1980",
       "writers": [
          "Angus Young",
@@ -3125,7 +3339,8 @@
    {
       "id": 1225052,
       "position": 286,
-      "title": "ABBA, 'Dancing Queen'",
+      "artist": "ABBA",
+      "title": "Dancing Queen",
       "year": "1976",
       "writers": [
          "Benny Andersson",
@@ -3140,7 +3355,8 @@
    {
       "id": 1225053,
       "position": 285,
-      "title": "Destiny’s Child, 'Say My Name'",
+      "artist": "Destiny’s Child",
+      "title": "Say My Name",
       "year": "1999",
       "writers": [
          "LaShawn Daniels",
@@ -3159,7 +3375,8 @@
    {
       "id": 1225054,
       "position": 284,
-      "title": "Leonard Cohen, 'Suzanne'",
+      "artist": "Leonard Cohen",
+      "title": "Suzanne",
       "year": "1967",
       "writers": [
          "Leonard Cohen"
@@ -3172,7 +3389,8 @@
    {
       "id": 1225055,
       "position": 283,
-      "title": "Ray Charles, 'Georgia on My Mind'",
+      "artist": "Ray Charles",
+      "title": "Georgia on My Mind",
       "year": "1960",
       "writers": [
          "Hoagy Carmichael",
@@ -3186,7 +3404,8 @@
    {
       "id": 1225056,
       "position": 282,
-      "title": "INXS, 'Never Tear Us Apart'",
+      "artist": "INXS",
+      "title": "Never Tear Us Apart",
       "year": "1988",
       "writers": [
          "Andrew Farriss",
@@ -3200,7 +3419,8 @@
    {
       "id": 1225057,
       "position": 281,
-      "title": "Clipse, 'Grindin''",
+      "artist": "Clipse",
+      "title": "Grindin'",
       "year": "2002",
       "writers": [
          "Gene Thornton",
@@ -3216,7 +3436,8 @@
    {
       "id": 1225058,
       "position": 280,
-      "title": "The Beatles, 'Penny Lane'",
+      "artist": "The Beatles",
+      "title": "Penny Lane",
       "year": "1967",
       "writers": [
          "John Lennon",
@@ -3230,7 +3451,8 @@
    {
       "id": 1225059,
       "position": 279,
-      "title": "Radiohead, 'Karma Police'",
+      "artist": "Radiohead",
+      "title": "Karma Police",
       "year": "1997",
       "writers": [
          "Thom Yorke",
@@ -3247,7 +3469,8 @@
    {
       "id": 1225060,
       "position": 278,
-      "title": "Toots and the Maytals, 'Pressure Drop'",
+      "artist": "Toots and the Maytals",
+      "title": "Pressure Drop",
       "year": "1973",
       "writers": [
          "Toots Hibbert"
@@ -3260,7 +3483,8 @@
    {
       "id": 1225061,
       "position": 277,
-      "title": "Bo Diddley, 'Bo Diddley'",
+      "artist": "Bo Diddley",
+      "title": "Bo Diddley",
       "year": "1955",
       "writers": [
          "Ellas McDaniel"
@@ -3273,7 +3497,8 @@
    {
       "id": 1225062,
       "position": 276,
-      "title": "Buzzcocks, 'Ever Fallen in Love (With Someone You Shouldn't've)'",
+      "artist": "Buzzcocks",
+      "title": "Ever Fallen in Love (With Someone You Shouldn't've)",
       "year": "1978",
       "writers": [
          "Peter Shelley"
@@ -3286,7 +3511,8 @@
    {
       "id": 1225063,
       "position": 275,
-      "title": "Randy Newman, 'Sail Away'",
+      "artist": "Randy Newman",
+      "title": "Sail Away",
       "year": "1972",
       "writers": [
          "Randy Newman"
@@ -3299,7 +3525,8 @@
    {
       "id": 1225064,
       "position": 274,
-      "title": "Al Green, 'Love and Happiness'",
+      "artist": "Al Green",
+      "title": "Love and Happiness",
       "year": "1972",
       "writers": [
          "Al Green",
@@ -3313,7 +3540,8 @@
    {
       "id": 1225065,
       "position": 273,
-      "title": "Roberta Flack, 'Killing Me Softly With His Song'",
+      "artist": "Roberta Flack",
+      "title": "Killing Me Softly With His Song",
       "year": "1973",
       "writers": [
          "Norman Gimbel",
@@ -3327,7 +3555,8 @@
    {
       "id": 1225066,
       "position": 272,
-      "title": "Thin Lizzy, 'The Boys Are Back in Town'",
+      "artist": "Thin Lizzy",
+      "title": "The Boys Are Back in Town",
       "year": "1976",
       "writers": [
          "Phil Lynott"
@@ -3340,7 +3569,8 @@
    {
       "id": 1225067,
       "position": 271,
-      "title": "Procol Harum, 'A Whiter Shade of Pale'",
+      "artist": "Procol Harum",
+      "title": "A Whiter Shade of Pale",
       "year": "1967",
       "writers": [
          "Keith Reid",
@@ -3354,7 +3584,8 @@
    {
       "id": 1225068,
       "position": 270,
-      "title": "Nine Inch Nails, 'Closer'",
+      "artist": "Nine Inch Nails",
+      "title": "Closer",
       "year": "1994",
       "writers": [
          "Trent Reznor"
@@ -3367,7 +3598,8 @@
    {
       "id": 1225069,
       "position": 269,
-      "title": "The Righteous Brothers, 'Unchained Melody'",
+      "artist": "The Righteous Brothers",
+      "title": "Unchained Melody",
       "year": "1965",
       "writers": [
          "Alex North",
@@ -3381,7 +3613,8 @@
    {
       "id": 1225070,
       "position": 268,
-      "title": "The Isley Brothers, 'Shout (Parts 1 and 2)'",
+      "artist": "The Isley Brothers",
+      "title": "Shout (Parts 1 and 2)",
       "year": "1959",
       "writers": [
          "Rudolph Isley",
@@ -3396,7 +3629,8 @@
    {
       "id": 1225071,
       "position": 267,
-      "title": "Drake feat. Rihanna, 'Take Care'",
+      "artist": "Drake feat. Rihanna",
+      "title": "Take Care",
       "year": "2011",
       "writers": [
          "Brook Benton",
@@ -3413,7 +3647,8 @@
    {
       "id": 1225072,
       "position": 266,
-      "title": "Augustus Pablo, 'King Tubby Meets the Rockers Uptown'",
+      "artist": "Augustus Pablo",
+      "title": "King Tubby Meets the Rockers Uptown",
       "year": "1974",
       "writers": [
          "Augustus Pablo"
@@ -3426,7 +3661,8 @@
    {
       "id": 1225073,
       "position": 265,
-      "title": "The Replacements, 'Left of the Dial'",
+      "artist": "The Replacements",
+      "title": "Left of the Dial",
       "year": "1985",
       "writers": [
          "Paul Westerberg"
@@ -3439,7 +3675,8 @@
    {
       "id": 1225074,
       "position": 264,
-      "title": "Marvin Gaye, 'Let's Get It On'",
+      "artist": "Marvin Gaye",
+      "title": "Let's Get It On",
       "year": "1973",
       "writers": [
          "Marvin Gaye",
@@ -3453,7 +3690,8 @@
    {
       "id": 1225075,
       "position": 263,
-      "title": "Dolly Parton, 'Coat of Many Colors'",
+      "artist": "Dolly Parton",
+      "title": "Coat of Many Colors",
       "year": "1971",
       "writers": [
          "Dolly Parton"
@@ -3466,7 +3704,8 @@
    {
       "id": 1225076,
       "position": 262,
-      "title": "Paul Simon, 'American Tune'",
+      "artist": "Paul Simon",
+      "title": "American Tune",
       "year": "1973",
       "writers": [
          "Paul Simon"
@@ -3479,7 +3718,8 @@
    {
       "id": 1225077,
       "position": 261,
-      "title": "Curtis Mayfield, 'Pusherman'",
+      "artist": "Curtis Mayfield",
+      "title": "Pusherman",
       "year": "1972",
       "writers": [
          "Curtis Mayfield"
@@ -3492,7 +3732,8 @@
    {
       "id": 1225078,
       "position": 260,
-      "title": "The Wailers, 'Get Up, Stand Up'",
+      "artist": "The Wailers",
+      "title": "Get U",
       "year": "1973",
       "writers": [
          "Bob Marley",
@@ -3506,7 +3747,8 @@
    {
       "id": 1225079,
       "position": 259,
-      "title": "Neil Young, 'Heart of Gold'",
+      "artist": "Neil Young",
+      "title": "Heart of Gold",
       "year": "1972",
       "writers": [
          "Neil Young"
@@ -3519,7 +3761,8 @@
    {
       "id": 1225080,
       "position": 258,
-      "title": "Gil-Scott Heron, 'The Revolution Will Not Be Televised'",
+      "artist": "Gil-Scott Heron",
+      "title": "The Revolution Will Not Be Televised",
       "year": "1971",
       "writers": [
          "Gil-Scott Heron"
@@ -3532,7 +3775,8 @@
    {
       "id": 1225081,
       "position": 257,
-      "title": "Martha Reeves and the Vandellas, 'Heat Wave'",
+      "artist": "Martha Reeves and the Vandellas",
+      "title": "Heat Wave",
       "year": "1963",
       "writers": [
          "Brian Holland",
@@ -3547,7 +3791,8 @@
    {
       "id": 1225082,
       "position": 256,
-      "title": "Metallica, 'Master of Puppets'",
+      "artist": "Metallica",
+      "title": "Master of Puppets",
       "year": "1986",
       "writers": [
          "Cliff Burton",
@@ -3563,7 +3808,8 @@
    {
       "id": 1225083,
       "position": 255,
-      "title": "Loretta Lynn, 'Coal Miner’s Daughter'",
+      "artist": "Loretta Lynn",
+      "title": "Coal Miner’s Daughter",
       "year": "1970",
       "writers": [
          "Loretta Lynn"
@@ -3576,7 +3822,8 @@
    {
       "id": 1225084,
       "position": 254,
-      "title": "The Supremes, 'Stop! In the Name of Love'",
+      "artist": "The Supremes",
+      "title": "Stop! In the Name of Love",
       "year": "1965",
       "writers": [
          "Lamont Dozier",
@@ -3591,7 +3838,8 @@
    {
       "id": 1225085,
       "position": 253,
-      "title": "Willie Nelson, 'Blue Eyes Crying in the Rain'",
+      "artist": "Willie Nelson",
+      "title": "Blue Eyes Crying in the Rain",
       "year": "1975",
       "writers": [
          "Fred Rose"
@@ -3604,7 +3852,8 @@
    {
       "id": 1225086,
       "position": 252,
-      "title": "Parliament, 'Flash Light'",
+      "artist": "Parliament",
+      "title": "Flash Light",
       "year": "1977",
       "writers": [
          "George Clinton",
@@ -3619,7 +3868,8 @@
    {
       "id": 1225087,
       "position": 251,
-      "title": "Gloria Gaynor, 'I Will Survive'",
+      "artist": "Gloria Gaynor",
+      "title": "I Will Survive",
       "year": "1978",
       "writers": [
          "Dino Fekaris",
@@ -3633,7 +3883,8 @@
    {
       "id": 1225088,
       "position": 250,
-      "title": "The Jimi Hendrix Experience, 'Purple Haze'",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Purple Haze",
       "year": "1967",
       "writers": [
          "Jimi Hendrix"
@@ -3646,7 +3897,8 @@
    {
       "id": 1225089,
       "position": 249,
-      "title": "Joan Jett, 'Bad Reputation'",
+      "artist": "Joan Jett",
+      "title": "Bad Reputation",
       "year": "1980",
       "writers": [
          "Joan Jett",
@@ -3662,7 +3914,8 @@
    {
       "id": 1225090,
       "position": 248,
-      "title": "N.W.A, 'Straight Outta Compton'",
+      "artist": "N.W.A",
+      "title": "Straight Outta Compton",
       "year": "1988",
       "writers": [
          "MC Ren",
@@ -3677,7 +3930,8 @@
    {
       "id": 1225091,
       "position": 247,
-      "title": "Joni Mitchell, 'River'",
+      "artist": "Joni Mitchell",
+      "title": "River",
       "year": "1971",
       "writers": [
          "Joni Mitchell"
@@ -3690,7 +3944,8 @@
    {
       "id": 1225092,
       "position": 246,
-      "title": "Faces, 'Ooh La La'",
+      "artist": "Faces",
+      "title": "Ooh La La",
       "year": "1973",
       "writers": [
          "Ronnie Lane",
@@ -3704,7 +3959,8 @@
    {
       "id": 1225093,
       "position": 245,
-      "title": "Beastie Boys, 'Sabotage'",
+      "artist": "Beastie Boys",
+      "title": "Sabotage",
       "year": "1994",
       "writers": [
          "Michael Diamond",
@@ -3719,7 +3975,8 @@
    {
       "id": 1225094,
       "position": 244,
-      "title": "Pavement, 'Summer Babe (Winter Version)'",
+      "artist": "Pavement",
+      "title": "Summer Babe (Winter Version)",
       "year": "1992",
       "writers": [
          "Stephen Malkmus"
@@ -3732,7 +3989,8 @@
    {
       "id": 1225095,
       "position": 243,
-      "title": "The Beatles, 'Eleanor Rigby'",
+      "artist": "The Beatles",
+      "title": "Eleanor Rigby",
       "year": "1966",
       "writers": [
          "John Lennon",
@@ -3746,7 +4004,8 @@
    {
       "id": 1225096,
       "position": 242,
-      "title": "Jerry Lee Lewis, 'Great Balls of Fire'",
+      "artist": "Jerry Lee Lewis",
+      "title": "Great Balls of Fire",
       "year": "1957",
       "writers": [
          "Otis Blackwell",
@@ -3760,7 +4019,8 @@
    {
       "id": 1225097,
       "position": 241,
-      "title": "Digital Underground, 'The Humpty Dance'",
+      "artist": "Digital Underground",
+      "title": "The Humpty Dance",
       "year": "1990",
       "writers": [
          "Earl Humphrey",
@@ -3774,7 +4034,8 @@
    {
       "id": 1225098,
       "position": 240,
-      "title": "Backstreet Boys, 'I Want It That Way'",
+      "artist": "Backstreet Boys",
+      "title": "I Want It That Way",
       "year": "1999",
       "writers": [
          "Andreas Carlsson",
@@ -3788,7 +4049,8 @@
    {
       "id": 1225099,
       "position": 239,
-      "title": "Big Star, 'September Gurls'",
+      "artist": "Big Star",
+      "title": "September Gurls",
       "year": "1974",
       "writers": [
          "Alex Chilton"
@@ -3801,7 +4063,8 @@
    {
       "id": 1225100,
       "position": 238,
-      "title": "Aaliyah, 'Are You That Somebody?'",
+      "artist": "Aaliyah",
+      "title": "Are You That Somebody?",
       "year": "1998",
       "writers": [
          "Stephen Garrett",
@@ -3815,7 +4078,8 @@
    {
       "id": 1225101,
       "position": 237,
-      "title": "Hank Williams, 'Your Cheatin' Heart'",
+      "artist": "Hank Williams",
+      "title": "Your Cheatin' Heart",
       "year": "1953",
       "writers": [
          "Hank Williams"
@@ -3828,7 +4092,8 @@
    {
       "id": 1225102,
       "position": 236,
-      "title": "Bill Withers, 'Lean on Me'",
+      "artist": "Bill Withers",
+      "title": "Lean on Me",
       "year": "1972",
       "writers": [
          "Bill Withers"
@@ -3841,7 +4106,8 @@
    {
       "id": 1225103,
       "position": 235,
-      "title": "New Order, 'Blue Monday'",
+      "artist": "New Order",
+      "title": "Blue Monday",
       "year": "1983",
       "writers": [
          "Gillian Gilbert",
@@ -3857,7 +4123,8 @@
    {
       "id": 1225104,
       "position": 234,
-      "title": "The Supremes, 'You Keep Me Hangin’ On'",
+      "artist": "The Supremes",
+      "title": "You Keep Me Hangin’ On",
       "year": "1966",
       "writers": [
          "Lamont Dozier",
@@ -3872,7 +4139,8 @@
    {
       "id": 1225105,
       "position": 233,
-      "title": "Deee-Lite, 'Groove Is in the Heart'",
+      "artist": "Deee-Lite",
+      "title": "Groove Is in the Heart",
       "year": "1990",
       "writers": [
          "Dmitry Brill",
@@ -3887,7 +4155,8 @@
    {
       "id": 1225106,
       "position": 232,
-      "title": "The Who, 'My Generation'",
+      "artist": "The Who",
+      "title": "My Generation",
       "year": "1965",
       "writers": [
          "Pete Townshend"
@@ -3900,7 +4169,8 @@
    {
       "id": 1225107,
       "position": 231,
-      "title": "Whitney Houston, 'I Wanna Dance With Somebody (Who Loves Me)'",
+      "artist": "Whitney Houston",
+      "title": "I Wanna Dance With Somebody (Who Loves Me)",
       "year": "1987",
       "writers": [
          "George Merrill",
@@ -3914,7 +4184,8 @@
    {
       "id": 1225108,
       "position": 230,
-      "title": "The Byrds, 'Mr. Tambourine Man'",
+      "artist": "The Byrds",
+      "title": "Mr. Tambourine Man",
       "year": "1965",
       "writers": [
          "Bob Dylan"
@@ -3927,7 +4198,8 @@
    {
       "id": 1225109,
       "position": 229,
-      "title": "Woody Guthrie, 'This Land Is Your Land'",
+      "artist": "Woody Guthrie",
+      "title": "This Land Is Your Land",
       "year": "1951",
       "writers": [
          "Woody Guthrie"
@@ -3940,7 +4212,8 @@
    {
       "id": 1225110,
       "position": 228,
-      "title": "Beyoncé, 'Single Ladies (Put a Ring On It)'",
+      "artist": "Beyoncé",
+      "title": "Single Ladies (Put a Ring On It)",
       "year": "2008",
       "writers": [
          "Beyoncé Knowles",
@@ -3956,7 +4229,8 @@
    {
       "id": 1225111,
       "position": 227,
-      "title": "Creedence Clearwater Revival, 'Fortunate Son'",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Fortunate Son",
       "year": "1969",
       "writers": [
          "John Fogerty"
@@ -3969,7 +4243,8 @@
    {
       "id": 1225112,
       "position": 226,
-      "title": "The Smiths, 'There Is a Light That Never Goes Out'",
+      "artist": "The Smiths",
+      "title": "There Is a Light That Never Goes Out",
       "year": "1986",
       "writers": [
          "Johnny Marr",
@@ -3983,7 +4258,8 @@
    {
       "id": 1225113,
       "position": 225,
-      "title": "Joni Mitchell, 'Both Sides Now'",
+      "artist": "Joni Mitchell",
+      "title": "Both Sides Now",
       "year": "1969",
       "writers": [
          "Joni Mitchell"
@@ -3996,7 +4272,8 @@
    {
       "id": 1225114,
       "position": 224,
-      "title": "Derek and the Dominos, 'Layla'",
+      "artist": "Derek and the Dominos",
+      "title": "Layla",
       "year": "1970",
       "writers": [
          "Eric Clapton",
@@ -4010,7 +4287,8 @@
    {
       "id": 1225115,
       "position": 223,
-      "title": "Eminem feat. Dido, 'Stan'",
+      "artist": "Eminem feat. Dido",
+      "title": "Stan",
       "year": "2000",
       "writers": [
          "Marshall Mathers",
@@ -4025,7 +4303,8 @@
    {
       "id": 1225116,
       "position": 222,
-      "title": "Crosby, Stills, and Nash, 'Suite: Judy Blue Eyes'",
+      "artist": "Crosby",
+      "title": "till",
       "year": "1969",
       "writers": [
          "Stephen Stills"
@@ -4038,7 +4317,8 @@
    {
       "id": 1225117,
       "position": 221,
-      "title": "Ike and Tina Turner, 'River Deep, Mountain High'",
+      "artist": "Ike and Tina Turner",
+      "title": "River Dee",
       "year": "1966",
       "writers": [
          "Phil Spector",
@@ -4053,7 +4333,8 @@
    {
       "id": 1225118,
       "position": 220,
-      "title": "New Order, 'Bizarre Love Triangle'",
+      "artist": "New Order",
+      "title": "Bizarre Love Triangle",
       "year": "1986",
       "writers": [
          "Gillian Gilbert",
@@ -4069,7 +4350,8 @@
    {
       "id": 1225119,
       "position": 219,
-      "title": "Tom Petty, 'Free Fallin''",
+      "artist": "Tom Petty",
+      "title": "Free Fallin'",
       "year": "1989",
       "writers": [
          "Jeff Lynne",
@@ -4084,7 +4366,8 @@
    {
       "id": 1225120,
       "position": 218,
-      "title": "Wilson Pickett, 'In the Midnight Hour'",
+      "artist": "Wilson Pickett",
+      "title": "In the Midnight Hour",
       "year": "1965",
       "writers": [
          "Wilson Pickett",
@@ -4098,7 +4381,8 @@
    {
       "id": 1225121,
       "position": 217,
-      "title": "Stevie Nicks, 'Edge of Seventeen'",
+      "artist": "Stevie Nicks",
+      "title": "Edge of Seventeen",
       "year": "1981",
       "writers": [
          "Stevie Nicks"
@@ -4111,7 +4395,8 @@
    {
       "id": 1225122,
       "position": 216,
-      "title": "Elvis Presley, 'Jailhouse Rock'",
+      "artist": "Elvis Presley",
+      "title": "Jailhouse Rock",
       "year": "1957",
       "writers": [
          "Jerry Leiber",
@@ -4125,7 +4410,8 @@
    {
       "id": 1225123,
       "position": 215,
-      "title": "Mobb Deep, 'Shook Ones, Pt. II'",
+      "artist": "Mobb Deep",
+      "title": "Shook One",
       "year": "1995",
       "writers": [
          "Albert Johnson",
@@ -4139,7 +4425,8 @@
    {
       "id": 1225124,
       "position": 214,
-      "title": "Steely Dan, 'Deacon Blues'",
+      "artist": "Steely Dan",
+      "title": "Deacon Blues",
       "year": "1977",
       "writers": [
          "Walter Becker",
@@ -4153,7 +4440,8 @@
    {
       "id": 1225125,
       "position": 213,
-      "title": "The Rolling Stones, 'Paint It, Black'",
+      "artist": "The Rolling Stones",
+      "title": "Paint I",
       "year": "1966",
       "writers": [
          "Mick Jagger",
@@ -4167,7 +4455,8 @@
    {
       "id": 1225126,
       "position": 212,
-      "title": "Boston, 'More Than a Feeling'",
+      "artist": "Boston",
+      "title": "More Than a Feeling",
       "year": "1976",
       "writers": [
          "Tom Scholz"
@@ -4180,7 +4469,8 @@
    {
       "id": 1225127,
       "position": 211,
-      "title": "U2, 'With or Without You'",
+      "artist": "U2",
+      "title": "With or Without You",
       "year": "1987",
       "writers": [
          "Bono",
@@ -4196,7 +4486,8 @@
    {
       "id": 1225128,
       "position": 210,
-      "title": "Funkadelic, 'One Nation Under a Groove'",
+      "artist": "Funkadelic",
+      "title": "One Nation Under a Groove",
       "year": "1978",
       "writers": [
          "George Clinton",
@@ -4211,7 +4502,8 @@
    {
       "id": 1225129,
       "position": 209,
-      "title": "Don Henley, 'Boys of Summer'",
+      "artist": "Don Henley",
+      "title": "Boys of Summer",
       "year": "1984",
       "writers": [
          "Don Henley",
@@ -4225,7 +4517,8 @@
    {
       "id": 1225130,
       "position": 208,
-      "title": "Hole, 'Doll Parts'",
+      "artist": "Hole",
+      "title": "Doll Parts",
       "year": "1994",
       "writers": [
          "Courtney Love",
@@ -4241,7 +4534,8 @@
    {
       "id": 1225131,
       "position": 207,
-      "title": "Rage Against the Machine, 'Killing in the Name'",
+      "artist": "Rage Against the Machine",
+      "title": "Killing in the Name",
       "year": "1992",
       "writers": [
          "Tim Commerford",
@@ -4257,7 +4551,8 @@
    {
       "id": 1225132,
       "position": 206,
-      "title": "Glen Campbell, 'Wichita Lineman'",
+      "artist": "Glen Campbell",
+      "title": "Wichita Lineman",
       "year": "1968",
       "writers": [
          "Jimmy Webb"
@@ -4270,7 +4565,8 @@
    {
       "id": 1225133,
       "position": 205,
-      "title": "Britney Spears, '...Baby One More Time'",
+      "artist": "Britney Spears",
+      "title": "...Baby One More Time",
       "year": "1998",
       "writers": [
          "Karl Sandberg"
@@ -4283,7 +4579,8 @@
    {
       "id": 1225134,
       "position": 204,
-      "title": "David Bowie, 'Young Americans'",
+      "artist": "David Bowie",
+      "title": "Young Americans",
       "year": "1975",
       "writers": [
          "David Bowie"
@@ -4296,7 +4593,8 @@
    {
       "id": 1225135,
       "position": 203,
-      "title": "Stevie Wonder, 'Signed, Sealed, Delivered I'm Yours'",
+      "artist": "Stevie Wonder",
+      "title": "Signe",
       "year": "1970",
       "writers": [
          "Stevie Wonder",
@@ -4312,7 +4610,8 @@
    {
       "id": 1225136,
       "position": 202,
-      "title": "Elton John, 'Your Song'",
+      "artist": "Elton John",
+      "title": "Your Song",
       "year": "1970",
       "writers": [
          "Elton John",
@@ -4326,7 +4625,8 @@
    {
       "id": 1225137,
       "position": 201,
-      "title": "Johnny Cash, 'Ring of Fire'",
+      "artist": "Johnny Cash",
+      "title": "Ring of Fire",
       "year": "1963",
       "writers": [
          "June Carter",
@@ -4340,7 +4640,8 @@
    {
       "id": 1225138,
       "position": 200,
-      "title": "David Bowie, 'Changes'",
+      "artist": "David Bowie",
+      "title": "Changes",
       "year": "1971",
       "writers": [
          "David Bowie"
@@ -4353,7 +4654,8 @@
    {
       "id": 1225139,
       "position": 199,
-      "title": "Aerosmith, 'Dream On'",
+      "artist": "Aerosmith",
+      "title": "Dream On",
       "year": "1973",
       "writers": [
          "Steven Tyler"
@@ -4366,7 +4668,8 @@
    {
       "id": 1225140,
       "position": 198,
-      "title": "Marvin Gaye, 'Sexual Healing'",
+      "artist": "Marvin Gaye",
+      "title": "Sexual Healing",
       "year": "1982",
       "writers": [
          "Marvin Gaye",
@@ -4380,7 +4683,8 @@
    {
       "id": 1225141,
       "position": 197,
-      "title": "Ann Peebles, 'I Can't Stand the Rain'",
+      "artist": "Ann Peebles",
+      "title": "I Can't Stand the Rain",
       "year": "1973",
       "writers": [
          "Ann Peebles",
@@ -4395,7 +4699,8 @@
    {
       "id": 1225142,
       "position": 196,
-      "title": "James Brown, 'Get Up (I Feel Like Being A) Sex Machine'",
+      "artist": "James Brown",
+      "title": "Get Up (I Feel Like Being A) Sex Machine",
       "year": "1970",
       "writers": [
          "Bobby Byrd",
@@ -4410,7 +4715,8 @@
    {
       "id": 1225143,
       "position": 195,
-      "title": "Patsy Cline, 'Crazy'",
+      "artist": "Patsy Cline",
+      "title": "Crazy",
       "year": "1961",
       "writers": [
          "Willie Nelson"
@@ -4423,7 +4729,8 @@
    {
       "id": 1225144,
       "position": 194,
-      "title": "PJ Harvey, 'Rid of Me'",
+      "artist": "PJ Harvey",
+      "title": "Rid of Me",
       "year": "1993",
       "writers": [
          "PJ Harvey"
@@ -4436,7 +4743,8 @@
    {
       "id": 1225145,
       "position": 193,
-      "title": "The Rolling Stones, 'Wild Horses'",
+      "artist": "The Rolling Stones",
+      "title": "Wild Horses",
       "year": "1971",
       "writers": [
          "Mick Jagger",
@@ -4450,7 +4758,8 @@
    {
       "id": 1225146,
       "position": 192,
-      "title": "Geto Boys, 'Mind Playing Tricks on Me'",
+      "artist": "Geto Boys",
+      "title": "Mind Playing Tricks on Me",
       "year": "1991",
       "writers": [
          "Brad Jordan",
@@ -4464,7 +4773,8 @@
    {
       "id": 1225147,
       "position": 191,
-      "title": "Bobbie Gentry, 'Ode to Billie Joe'",
+      "artist": "Bobbie Gentry",
+      "title": "Ode to Billie Joe",
       "year": "1967",
       "writers": [
          "Bobbie Gentry"
@@ -4477,7 +4787,8 @@
    {
       "id": 1225148,
       "position": 190,
-      "title": "N.W.A, 'Fuck tha Police'",
+      "artist": "N.W.A",
+      "title": "Fuck tha Police",
       "year": "1988",
       "writers": [
          "MC Ren",
@@ -4491,7 +4802,8 @@
    {
       "id": 1225149,
       "position": 189,
-      "title": "David Bowie, 'Space Oddity'",
+      "artist": "David Bowie",
+      "title": "Space Oddity",
       "year": "1969",
       "writers": [
          "David Bowie"
@@ -4504,7 +4816,8 @@
    {
       "id": 1225150,
       "position": 188,
-      "title": "The Jimi Hendrix Experience, 'Little Wing'",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "Little Wing",
       "year": "1967",
       "writers": [
          "Jimi Hendrix"
@@ -4517,7 +4830,8 @@
    {
       "id": 1225151,
       "position": 187,
-      "title": "Bob Dylan, 'Subterranean Homesick Blues'",
+      "artist": "Bob Dylan",
+      "title": "Subterranean Homesick Blues",
       "year": "1965",
       "writers": [
          "Bob Dylan"
@@ -4530,7 +4844,8 @@
    {
       "id": 1225152,
       "position": 186,
-      "title": "The Staple Singers, 'I'll Take You There'",
+      "artist": "The Staple Singers",
+      "title": "I'll Take You There",
       "year": "1972",
       "writers": [
          "Alvertis Isbell"
@@ -4543,7 +4858,8 @@
    {
       "id": 1225153,
       "position": 185,
-      "title": "Michael Jackson, 'Beat It'",
+      "artist": "Michael Jackson",
+      "title": "Beat It",
       "year": "1982",
       "writers": [
          "Michael Jackson"
@@ -4556,7 +4872,8 @@
    {
       "id": 1225154,
       "position": 184,
-      "title": "Sinéad O’Connor, 'Nothing Compares 2 U'",
+      "artist": "Sinéad O’Connor",
+      "title": "Nothing Compares 2 U",
       "year": "1990",
       "writers": [
          "Prince"
@@ -4569,7 +4886,8 @@
    {
       "id": 1225155,
       "position": 183,
-      "title": "Stevie Wonder, 'You Are the Sunshine of My Life'",
+      "artist": "Stevie Wonder",
+      "title": "You Are the Sunshine of My Life",
       "year": "1972",
       "writers": [
          "Stevie Wonder"
@@ -4582,7 +4900,8 @@
    {
       "id": 1225156,
       "position": 182,
-      "title": "Simon and Garfunkel, 'The Sounds of Silence'",
+      "artist": "Simon and Garfunkel",
+      "title": "The Sounds of Silence",
       "year": "1964",
       "writers": [
          "Paul Simon"
@@ -4595,7 +4914,8 @@
    {
       "id": 1225157,
       "position": 181,
-      "title": "The Byrds, 'Eight Miles High'",
+      "artist": "The Byrds",
+      "title": "Eight Miles High",
       "year": "1966",
       "writers": [
          "Gene Clark",
@@ -4610,7 +4930,8 @@
    {
       "id": 1225158,
       "position": 180,
-      "title": "Lou Reed, 'Walk on the Wild Side'",
+      "artist": "Lou Reed",
+      "title": "Walk on the Wild Side",
       "year": "1972",
       "writers": [
          "Lou Reed"
@@ -4623,7 +4944,8 @@
    {
       "id": 1225159,
       "position": 179,
-      "title": "Pink Floyd, 'Comfortably Numb'",
+      "artist": "Pink Floyd",
+      "title": "Comfortably Numb",
       "year": "1979",
       "writers": [
          "David Gilmour",
@@ -4637,7 +4959,8 @@
    {
       "id": 1225160,
       "position": 178,
-      "title": "Billie Eilish, 'Bad Guy'",
+      "artist": "Billie Eilish",
+      "title": "Bad Guy",
       "year": "2019",
       "writers": [
          "Finneas O'Connell",
@@ -4651,7 +4974,8 @@
    {
       "id": 1225161,
       "position": 177,
-      "title": "Van Halen, 'Jump'",
+      "artist": "Van Halen",
+      "title": "Jump",
       "year": "1983",
       "writers": [
          "Edward Van Halen",
@@ -4667,7 +4991,8 @@
    {
       "id": 1225162,
       "position": 176,
-      "title": "The Kinks, 'You Really Got Me'",
+      "artist": "The Kinks",
+      "title": "You Really Got Me",
       "year": "1964",
       "writers": [
          "Ray Davies"
@@ -4680,7 +5005,8 @@
    {
       "id": 1225163,
       "position": 175,
-      "title": "The Flamingos, 'I Only Have Eyes for You'",
+      "artist": "The Flamingos",
+      "title": "I Only Have Eyes for You",
       "year": "1959",
       "writers": [
          "Al Dubin",
@@ -4694,7 +5020,8 @@
    {
       "id": 1225164,
       "position": 174,
-      "title": "R.E.M., 'Radio Free Europe'",
+      "artist": "R.E.M.",
+      "title": "Radio Free Europe",
       "year": "1983",
       "writers": [
          "Bill Berry",
@@ -4710,7 +5037,8 @@
    {
       "id": 1225165,
       "position": 173,
-      "title": "Television, 'Marquee Moon'",
+      "artist": "Television",
+      "title": "Marquee Moon",
       "year": "1977",
       "writers": [
          "Tom Verlaine"
@@ -4723,7 +5051,8 @@
    {
       "id": 1225166,
       "position": 172,
-      "title": "Nina Simone, 'Mississippi Goddam'",
+      "artist": "Nina Simone",
+      "title": "Mississippi Goddam",
       "year": "1964",
       "writers": [
          "Nina Simone"
@@ -4736,7 +5065,8 @@
    {
       "id": 1225167,
       "position": 171,
-      "title": "Louis Armstrong, 'What a Wonderful World'",
+      "artist": "Louis Armstrong",
+      "title": "What a Wonderful World",
       "year": "1967",
       "writers": [
          "G.D. Weiss",
@@ -4750,7 +5080,8 @@
    {
       "id": 1225168,
       "position": 170,
-      "title": "The Five Satins, 'In the Still of the Night'",
+      "artist": "The Five Satins",
+      "title": "In the Still of the Night",
       "year": "1956",
       "writers": [
          "Fred Parris"
@@ -4763,7 +5094,8 @@
    {
       "id": 1225169,
       "position": 169,
-      "title": "Tom Petty and the Heartbreakers, 'American Girl'",
+      "artist": "Tom Petty and the Heartbreakers",
+      "title": "American Girl",
       "year": "1976",
       "writers": [
          "Tom Petty"
@@ -4776,7 +5108,8 @@
    {
       "id": 1225170,
       "position": 168,
-      "title": "Dusty Springfield, 'Son of a Preacher Man'",
+      "artist": "Dusty Springfield",
+      "title": "Son of a Preacher Man",
       "year": "1968",
       "writers": [
          "John Hurley",
@@ -4790,7 +5123,8 @@
    {
       "id": 1225171,
       "position": 167,
-      "title": "Eminem, 'Lose Yourself'",
+      "artist": "Eminem",
+      "title": "Lose Yourself",
       "year": "2002",
       "writers": [
          "Marshall Mathers"
@@ -4803,7 +5137,8 @@
    {
       "id": 1225172,
       "position": 166,
-      "title": "Mott the Hoople, 'All the Young Dudes'",
+      "artist": "Mott the Hoople",
+      "title": "All the Young Dudes",
       "year": "1972",
       "writers": [
          "David Bowie"
@@ -4816,7 +5151,8 @@
    {
       "id": 1225173,
       "position": 165,
-      "title": "Hank Williams, 'I’m So Lonesome I Could Cry'",
+      "artist": "Hank Williams",
+      "title": "I’m So Lonesome I Could Cry",
       "year": "1949",
       "writers": [
          "Hank Williams"
@@ -4829,7 +5165,8 @@
    {
       "id": 1225174,
       "position": 164,
-      "title": "Bob Dylan, 'Mr. Tambourine Man'",
+      "artist": "Bob Dylan",
+      "title": "Mr. Tambourine Man",
       "year": "1965",
       "writers": [
          "Bob Dylan"
@@ -4842,7 +5179,8 @@
    {
       "id": 1225175,
       "position": 163,
-      "title": "Fleetwood Mac, 'Landslide'",
+      "artist": "Fleetwood Mac",
+      "title": "Landslide",
       "year": "1975",
       "writers": [
          "Stevie Nicks"
@@ -4855,7 +5193,8 @@
    {
       "id": 1225176,
       "position": 162,
-      "title": "Nick Drake, 'Pink Moon'",
+      "artist": "Nick Drake",
+      "title": "Pink Moon",
       "year": "1972",
       "writers": [
          "Nick Drake"
@@ -4868,7 +5207,8 @@
    {
       "id": 1225177,
       "position": 161,
-      "title": "Madonna, 'Into the Groove'",
+      "artist": "Madonna",
+      "title": "Into the Groove",
       "year": "1985",
       "writers": [
          "Madonna",
@@ -4882,7 +5222,8 @@
    {
       "id": 1225178,
       "position": 160,
-      "title": "R.E.M., 'Nightswimming'",
+      "artist": "R.E.M.",
+      "title": "Nightswimming",
       "year": "1992",
       "writers": [
          "Bill Berry",
@@ -4898,7 +5239,8 @@
    {
       "id": 1225179,
       "position": 159,
-      "title": "The Who, 'Baba O'Riley'",
+      "artist": "The Who",
+      "title": "Baba O'Riley",
       "year": "1971",
       "writers": [
          "Pete Townshend"
@@ -4911,7 +5253,8 @@
    {
       "id": 1225180,
       "position": 158,
-      "title": "The Meters, 'Cissy Strut'",
+      "artist": "The Meters",
+      "title": "Cissy Strut",
       "year": "1969",
       "writers": [
          "Leo Nocentelli",
@@ -4927,7 +5270,8 @@
    {
       "id": 1225181,
       "position": 157,
-      "title": "Sonic Youth, 'Teenage Riot'",
+      "artist": "Sonic Youth",
+      "title": "Teenage Riot",
       "year": "1988",
       "writers": [
          "Thurston Moore",
@@ -4943,7 +5287,8 @@
    {
       "id": 1225182,
       "position": 156,
-      "title": "The Kingsmen, 'Louie Louie'",
+      "artist": "The Kingsmen",
+      "title": "Louie Louie",
       "year": "1963",
       "writers": [
          "Richard Berry"
@@ -4956,7 +5301,8 @@
    {
       "id": 1225183,
       "position": 155,
-      "title": "The Strokes, 'Last Nite'",
+      "artist": "The Strokes",
+      "title": "Last Nite",
       "year": "2001",
       "writers": [
          "Julian Casablancas"
@@ -4969,7 +5315,8 @@
    {
       "id": 1225184,
       "position": 154,
-      "title": "Howlin’ Wolf, 'Spoonful'",
+      "artist": "Howlin’ Wolf",
+      "title": "Spoonful",
       "year": "1960",
       "writers": [
          "Willie Dixon"
@@ -4982,7 +5329,8 @@
    {
       "id": 1225185,
       "position": 153,
-      "title": "Rick James, 'Super Freak'",
+      "artist": "Rick James",
+      "title": "Super Freak",
       "year": "1981",
       "writers": [
          "Rick James",
@@ -4996,7 +5344,8 @@
    {
       "id": 1225186,
       "position": 152,
-      "title": "Creedence Clearwater Revival, 'Proud Mary'",
+      "artist": "Creedence Clearwater Revival",
+      "title": "Proud Mary",
       "year": "1969",
       "writers": [
          "John Fogerty"
@@ -5009,7 +5358,8 @@
    {
       "id": 1225187,
       "position": 151,
-      "title": "The Shirelles, 'Will You Love Me Tomorrow'",
+      "artist": "The Shirelles",
+      "title": "Will You Love Me Tomorrow",
       "year": "1960",
       "writers": [
          "Gerry Goffin",
@@ -5023,7 +5373,8 @@
    {
       "id": 1225188,
       "position": 150,
-      "title": "Green Day, 'Basket Case'",
+      "artist": "Green Day",
+      "title": "Basket Case",
       "year": "1994",
       "writers": [
          "Billie Joe Armstrong",
@@ -5038,7 +5389,8 @@
    {
       "id": 1225189,
       "position": 149,
-      "title": "Elton John, 'Rocket Man'",
+      "artist": "Elton John",
+      "title": "Rocket Man",
       "year": "1972",
       "writers": [
          "Elton John",
@@ -5052,7 +5404,8 @@
    {
       "id": 1225190,
       "position": 148,
-      "title": "Led Zeppelin, 'Kashmir'",
+      "artist": "Led Zeppelin",
+      "title": "Kashmir",
       "year": "1975",
       "writers": [
          "John Bonham",
@@ -5067,7 +5420,8 @@
    {
       "id": 1225191,
       "position": 147,
-      "title": "Fats Domino, 'Blueberry Hill'",
+      "artist": "Fats Domino",
+      "title": "Blueberry Hill",
       "year": "1956",
       "writers": [
          "Al Lewis",
@@ -5082,7 +5436,8 @@
    {
       "id": 1225192,
       "position": 146,
-      "title": "James Taylor, 'Fire and Rain'",
+      "artist": "James Taylor",
+      "title": "Fire and Rain",
       "year": "1970",
       "writers": [
          "James Taylor"
@@ -5095,7 +5450,8 @@
    {
       "id": 1225193,
       "position": 145,
-      "title": "Outkast, 'Ms. Jackson'",
+      "artist": "Outkast",
+      "title": "Ms. Jackson",
       "year": "2000",
       "writers": [
          "André Benjamin",
@@ -5110,7 +5466,8 @@
    {
       "id": 1225194,
       "position": 144,
-      "title": "The Rolling Stones, 'Jumpin’ Jack Flash'",
+      "artist": "The Rolling Stones",
+      "title": "Jumpin’ Jack Flash",
       "year": "1968",
       "writers": [
          "Mick Jagger",
@@ -5124,7 +5481,8 @@
    {
       "id": 1225195,
       "position": 143,
-      "title": "The Clash, 'London Calling'",
+      "artist": "The Clash",
+      "title": "London Calling",
       "year": "1980",
       "writers": [
          "Mick Jones",
@@ -5138,7 +5496,8 @@
    {
       "id": 1225196,
       "position": 142,
-      "title": "George Jones, 'He Stopped Loving Her Today'",
+      "artist": "George Jones",
+      "title": "He Stopped Loving Her Today",
       "year": "1980",
       "writers": [
          "Bobby Braddock",
@@ -5152,7 +5511,8 @@
    {
       "id": 1225197,
       "position": 141,
-      "title": "Rod Stewart, 'Maggie May'",
+      "artist": "Rod Stewart",
+      "title": "Maggie May",
       "year": "1971",
       "writers": [
          "Rod Stewart",
@@ -5166,7 +5526,8 @@
    {
       "id": 1225198,
       "position": 140,
-      "title": "Bob Marley and the Wailers, 'No Woman No Cry'",
+      "artist": "Bob Marley and the Wailers",
+      "title": "No Woman No Cry",
       "year": "1975",
       "writers": [
          "Vincent Ford",
@@ -5180,7 +5541,8 @@
    {
       "id": 1225199,
       "position": 139,
-      "title": "Madonna, 'Vogue'",
+      "artist": "Madonna",
+      "title": "Vogue",
       "year": "1990",
       "writers": [
          "Madonna",
@@ -5194,7 +5556,8 @@
    {
       "id": 1225200,
       "position": 138,
-      "title": "Blondie, 'Heart of Glass'",
+      "artist": "Blondie",
+      "title": "Heart of Glass",
       "year": "1979",
       "writers": [
          "Chris Stein",
@@ -5208,7 +5571,8 @@
    {
       "id": 1225201,
       "position": 137,
-      "title": "Ariana Grande, 'Thank U, Next'",
+      "artist": "Ariana Grande",
+      "title": "Thank ",
       "year": "2019",
       "writers": [
          "Kimberly Krysiuk",
@@ -5228,7 +5592,8 @@
    {
       "id": 1225202,
       "position": 136,
-      "title": "Otis Redding, 'Try a Little Tenderness'",
+      "artist": "Otis Redding",
+      "title": "Try a Little Tenderness",
       "year": "1966",
       "writers": [
          "Harry Woods",
@@ -5243,7 +5608,8 @@
    {
       "id": 1225203,
       "position": 135,
-      "title": "The Beatles, 'She Loves You'",
+      "artist": "The Beatles",
+      "title": "She Loves You",
       "year": "1964",
       "writers": [
          "John Lennon",
@@ -5257,7 +5623,8 @@
    {
       "id": 1225204,
       "position": 134,
-      "title": "Tina Turner, 'What's Love Got to Do With It'",
+      "artist": "Tina Turner",
+      "title": "What's Love Got to Do With It",
       "year": "1984",
       "writers": [
          "Graham Lyle",
@@ -5271,7 +5638,8 @@
    {
       "id": 1225205,
       "position": 133,
-      "title": "Journey, 'Don’t Stop Believin’'",
+      "artist": "Journey",
+      "title": "Don’t Stop Believin’",
       "year": "1981",
       "writers": [
          "Jonathan Cain",
@@ -5286,7 +5654,8 @@
    {
       "id": 1225206,
       "position": 132,
-      "title": "Eric B. and Rakim, 'Paid in Full'",
+      "artist": "Eric B. and Rakim",
+      "title": "Paid in Full",
       "year": "1987",
       "writers": [
          "Eric Barrier",
@@ -5300,7 +5669,8 @@
    {
       "id": 1225207,
       "position": 131,
-      "title": "Ben E. King, 'Stand by Me'",
+      "artist": "Ben E. King",
+      "title": "Stand by Me",
       "year": "1961",
       "writers": [
          "Ben E. King",
@@ -5315,7 +5685,8 @@
    {
       "id": 1225208,
       "position": 130,
-      "title": "Martha and the Vandellas, 'Dancing in the Street'",
+      "artist": "Martha and the Vandellas",
+      "title": "Dancing in the Street",
       "year": "1964",
       "writers": [
          "Ivy Joe Hunter",
@@ -5330,7 +5701,8 @@
    {
       "id": 1225209,
       "position": 129,
-      "title": "Drake feat. Majid Jordan, 'Hold On, We're Going Home'",
+      "artist": "Drake feat. Majid Jordan",
+      "title": "Hold O",
       "year": "2013",
       "writers": [
          "Aubrey Graham",
@@ -5347,7 +5719,8 @@
    {
       "id": 1225210,
       "position": 128,
-      "title": "Led Zeppelin, 'Whole Lotta Love'",
+      "artist": "Led Zeppelin",
+      "title": "Whole Lotta Love",
       "year": "1969",
       "writers": [
          "John Bonham",
@@ -5364,7 +5737,8 @@
    {
       "id": 1225211,
       "position": 127,
-      "title": "TLC, 'Waterfalls'",
+      "artist": "TLC",
+      "title": "Waterfalls",
       "year": "1995",
       "writers": [
          "Brandon Bennett",
@@ -5382,7 +5756,8 @@
    {
       "id": 1225212,
       "position": 126,
-      "title": "George Michael, 'Freedom! '90'",
+      "artist": "George Michael",
+      "title": "Freedom! '90",
       "year": "1990",
       "writers": [
          "George Michael"
@@ -5395,7 +5770,8 @@
    {
       "id": 1225213,
       "position": 125,
-      "title": "Sex Pistols, 'Anarchy in the U.K.'",
+      "artist": "Sex Pistols",
+      "title": "Anarchy in the U.K.",
       "year": "1977",
       "writers": [
          "John Lydon",
@@ -5412,7 +5788,8 @@
    {
       "id": 1225214,
       "position": 124,
-      "title": "Buddy Holly, 'That’ll Be the Day'",
+      "artist": "Buddy Holly",
+      "title": "That’ll Be the Day",
       "year": "1957",
       "writers": [
          "Buddy Holly",
@@ -5427,7 +5804,8 @@
    {
       "id": 1225215,
       "position": 123,
-      "title": "Talking Heads, 'This Must Be the Place (Naive Melody)'",
+      "artist": "Talking Heads",
+      "title": "This Must Be the Place (Naive Melody)",
       "year": "1983",
       "writers": [
          "Chris Frantz",
@@ -5443,7 +5821,8 @@
    {
       "id": 1225216,
       "position": 122,
-      "title": "The Impressions, 'People Get Ready'",
+      "artist": "The Impressions",
+      "title": "People Get Ready",
       "year": "1965",
       "writers": [
          "Curtis Mayfield"
@@ -5456,7 +5835,8 @@
    {
       "id": 1225217,
       "position": 121,
-      "title": "The Beatles, 'Let It Be'",
+      "artist": "The Beatles",
+      "title": "Let It Be",
       "year": "1970",
       "writers": [
          "John Lennon",
@@ -5470,7 +5850,8 @@
    {
       "id": 1225218,
       "position": 120,
-      "title": "X-Ray Spex, 'Oh Bondage! Up Yours!'",
+      "artist": "X-Ray Spex",
+      "title": "Oh Bondage! Up Yours!",
       "year": "1977",
       "writers": [
          "Poly Styrene"
@@ -5483,7 +5864,8 @@
    {
       "id": 1225219,
       "position": 119,
-      "title": "Marvin Gaye, 'I Heard It Through the Grapevine'",
+      "artist": "Marvin Gaye",
+      "title": "I Heard It Through the Grapevine",
       "year": "1968",
       "writers": [
          "Barrett Strong",
@@ -5497,7 +5879,8 @@
    {
       "id": 1225220,
       "position": 118,
-      "title": "Radiohead, 'Creep'",
+      "artist": "Radiohead",
+      "title": "Creep",
       "year": "1992",
       "writers": [
          "Albert Hammond",
@@ -5516,7 +5899,8 @@
    {
       "id": 1225221,
       "position": 117,
-      "title": "Aretha Franklin, 'I Say a Little Prayer'",
+      "artist": "Aretha Franklin",
+      "title": "I Say a Little Prayer",
       "year": "1968",
       "writers": [
          "Burt Bacharach",
@@ -5530,7 +5914,8 @@
    {
       "id": 1225222,
       "position": 116,
-      "title": "Rob Base and DJ E-Z Rock, 'It Takes Two'",
+      "artist": "Rob Base and DJ E-Z Rock",
+      "title": "It Takes Two",
       "year": "1988",
       "writers": [
          "Robert Ginyard"
@@ -5543,7 +5928,8 @@
    {
       "id": 1225223,
       "position": 115,
-      "title": "Etta James, 'At Last'",
+      "artist": "Etta James",
+      "title": "At Last",
       "year": "1960",
       "writers": [
          "Harry Warren",
@@ -5557,7 +5943,8 @@
    {
       "id": 1225224,
       "position": 114,
-      "title": "Britney Spears, 'Toxic'",
+      "artist": "Britney Spears",
+      "title": "Toxic",
       "year": "2003",
       "writers": [
          "Cathy Dennis",
@@ -5573,7 +5960,8 @@
    {
       "id": 1225225,
       "position": 113,
-      "title": "Stevie Wonder, 'Higher Ground'",
+      "artist": "Stevie Wonder",
+      "title": "Higher Ground",
       "year": "1973",
       "writers": [
          "Stevie Wonder"
@@ -5586,7 +5974,8 @@
    {
       "id": 1225226,
       "position": 112,
-      "title": "R.E.M., 'Losing My Religion'",
+      "artist": "R.E.M.",
+      "title": "Losing My Religion",
       "year": "1991",
       "writers": [
          "Michael Mills",
@@ -5602,7 +5991,8 @@
    {
       "id": 1225227,
       "position": 111,
-      "title": "Bruce Springsteen, 'Thunder Road'",
+      "artist": "Bruce Springsteen",
+      "title": "Thunder Road",
       "year": "1975",
       "writers": [
          "Bruce Springsteen"
@@ -5615,7 +6005,8 @@
    {
       "id": 1225228,
       "position": 110,
-      "title": "The Beatles, 'Something'",
+      "artist": "The Beatles",
+      "title": "Something",
       "year": "1969",
       "writers": [
          "George Harrison"
@@ -5628,7 +6019,8 @@
    {
       "id": 1225229,
       "position": 109,
-      "title": "Sly and the Family Stone, 'Everyday People'",
+      "artist": "Sly and the Family Stone",
+      "title": "Everyday People",
       "year": "1968",
       "writers": [
          "Sylvester Stewart"
@@ -5641,7 +6033,8 @@
    {
       "id": 1225230,
       "position": 108,
-      "title": "The Cure, 'Just Like Heaven'",
+      "artist": "The Cure",
+      "title": "Just Like Heaven",
       "year": "1987",
       "writers": [
          "Boris Williams",
@@ -5658,7 +6051,8 @@
    {
       "id": 1225231,
       "position": 107,
-      "title": "Wu-Tang Clan, 'C.R.E.A.M.'",
+      "artist": "Wu-Tang Clan",
+      "title": "C.R.E.A.M.",
       "year": "1994",
       "writers": [
          "Wu-Tang Clan"
@@ -5671,7 +6065,8 @@
    {
       "id": 1225232,
       "position": 106,
-      "title": "The Rolling Stones, 'Sympathy for the Devil'",
+      "artist": "The Rolling Stones",
+      "title": "Sympathy for the Devil",
       "year": "1968",
       "writers": [
          "Keith Richards",
@@ -5685,7 +6080,8 @@
    {
       "id": 1225233,
       "position": 105,
-      "title": "David Bowie, 'Life on Mars?'",
+      "artist": "David Bowie",
+      "title": "Life on Mars?",
       "year": "1971",
       "writers": [
          "David Bowie"
@@ -5698,7 +6094,8 @@
    {
       "id": 1225234,
       "position": 104,
-      "title": "The Jackson 5, 'I Want You Back'",
+      "artist": "The Jackson 5",
+      "title": "I Want You Back",
       "year": "1969",
       "writers": [
          "Alphonso Mizell",
@@ -5714,7 +6111,8 @@
    {
       "id": 1225235,
       "position": 103,
-      "title": "Alanis Morissette, 'You Oughta Know'",
+      "artist": "Alanis Morissette",
+      "title": "You Oughta Know",
       "year": "1995",
       "writers": [
          "Alanis Morissette",
@@ -5728,7 +6126,8 @@
    {
       "id": 1225236,
       "position": 102,
-      "title": "Chuck Berry, 'Maybelline'",
+      "artist": "Chuck Berry",
+      "title": "Maybelline",
       "year": "1955",
       "writers": [
          "Chuck Berry"
@@ -5741,7 +6140,8 @@
    {
       "id": 1225237,
       "position": 101,
-      "title": "Yeah Yeah Yeahs, 'Maps'",
+      "artist": "Yeah Yeah Yeahs",
+      "title": "Maps",
       "year": "2003",
       "writers": [
          "Brian Chase",
@@ -5756,7 +6156,8 @@
    {
       "id": 1225238,
       "position": 100,
-      "title": "Bob Dylan, 'Blowin' in the Wind'",
+      "artist": "Bob Dylan",
+      "title": "Blowin' in the Wind",
       "year": "1963",
       "writers": [
          "Bob Dylan"
@@ -5769,7 +6170,8 @@
    {
       "id": 1225239,
       "position": 99,
-      "title": "Bee Gees, 'Stayin' Alive'",
+      "artist": "Bee Gees",
+      "title": "Stayin' Alive",
       "year": "1977",
       "writers": [
          "Robin Gibb",
@@ -5784,7 +6186,8 @@
    {
       "id": 1225240,
       "position": 98,
-      "title": "The Beatles, 'In My Life'",
+      "artist": "The Beatles",
+      "title": "In My Life",
       "year": "1965",
       "writers": [
          "John Lennon",
@@ -5798,7 +6201,8 @@
    {
       "id": 1225241,
       "position": 97,
-      "title": "Patti Smith, 'Gloria'",
+      "artist": "Patti Smith",
+      "title": "Gloria",
       "year": "1975",
       "writers": [
          "Patti Smith",
@@ -5812,7 +6216,8 @@
    {
       "id": 1225242,
       "position": 96,
-      "title": "Jay-Z, '99 Problems'",
+      "artist": "Jay-Z",
+      "title": "99 Problems",
       "year": "2003",
       "writers": [
          "Shawn Carter",
@@ -5834,7 +6239,8 @@
    {
       "id": 1225243,
       "position": 95,
-      "title": "Oasis, 'Wonderwall'",
+      "artist": "Oasis",
+      "title": "Wonderwall",
       "year": "1995",
       "writers": [
          "Noel Gallagher"
@@ -5847,7 +6253,8 @@
    {
       "id": 1225244,
       "position": 94,
-      "title": "Whitney Houston, 'I Will Always Love You'",
+      "artist": "Whitney Houston",
+      "title": "I Will Always Love You",
       "year": "1992",
       "writers": [
          "Dolly Parton"
@@ -5860,7 +6267,8 @@
    {
       "id": 1225245,
       "position": 93,
-      "title": "Kelly Clarkson, 'Since U Been Gone'",
+      "artist": "Kelly Clarkson",
+      "title": "Since U Been Gone",
       "year": "2004",
       "writers": [
          "Lukasz Gottwald",
@@ -5874,7 +6282,8 @@
    {
       "id": 1225246,
       "position": 92,
-      "title": "Little Richard, 'Good Golly, Miss Molly'",
+      "artist": "Little Richard",
+      "title": "Good Goll",
       "year": "1958",
       "writers": [
          "Robert Blackwell",
@@ -5888,7 +6297,8 @@
    {
       "id": 1225247,
       "position": 91,
-      "title": "UGK feat. Outkast, 'Int'l Players Anthem (I Choose You)'",
+      "artist": "UGK feat. Outkast",
+      "title": "Int'l Players Anthem (I Choose You)",
       "year": "2007",
       "writers": [
          "Bernard Freeman",
@@ -5906,7 +6316,8 @@
    {
       "id": 1225248,
       "position": 90,
-      "title": "Aretha Franklin, '(You Make Me Feel Like) A Natural Woman'",
+      "artist": "Aretha Franklin",
+      "title": "(You Make Me Feel Like) A Natural Woman",
       "year": "1967",
       "writers": [
          "Carole King",
@@ -5921,7 +6332,8 @@
    {
       "id": 1225249,
       "position": 89,
-      "title": "The Beatles, 'Hey Jude'",
+      "artist": "The Beatles",
+      "title": "Hey Jude",
       "year": "1968",
       "writers": [
          "John Lennon",
@@ -5935,7 +6347,8 @@
    {
       "id": 1225250,
       "position": 88,
-      "title": "Guns N' Roses, 'Sweet Child O' Mine'",
+      "artist": "Guns N' Roses",
+      "title": "Sweet Child O' Mine",
       "year": "1987",
       "writers": [
          "Duff McKagan",
@@ -5952,7 +6365,8 @@
    {
       "id": 1225251,
       "position": 87,
-      "title": "LCD Soundsystem, 'All My Friends'",
+      "artist": "LCD Soundsystem",
+      "title": "All My Friends",
       "year": "2007",
       "writers": [
          "Pat Mahoney",
@@ -5967,7 +6381,8 @@
    {
       "id": 1225252,
       "position": 86,
-      "title": "The Rolling Stones, 'Tumbling Dice'",
+      "artist": "The Rolling Stones",
+      "title": "Tumbling Dice",
       "year": "1972",
       "writers": [
          "Mick Jagger",
@@ -5981,7 +6396,8 @@
    {
       "id": 1225253,
       "position": 85,
-      "title": "Prince, 'Kiss'",
+      "artist": "Prince",
+      "title": "Kiss",
       "year": "1986",
       "writers": [
          "Prince"
@@ -5994,7 +6410,8 @@
    {
       "id": 1225254,
       "position": 84,
-      "title": "Al Green, 'Let's Stay Together'",
+      "artist": "Al Green",
+      "title": "Let's Stay Together",
       "year": "1971",
       "writers": [
          "Al Green",
@@ -6009,7 +6426,8 @@
    {
       "id": 1225255,
       "position": 83,
-      "title": "Bob Dylan, 'Desolation Row'",
+      "artist": "Bob Dylan",
+      "title": "Desolation Row",
       "year": "1965",
       "writers": [
          "Bob Dylan"
@@ -6022,7 +6440,8 @@
    {
       "id": 1225256,
       "position": 82,
-      "title": "Adele, 'Rolling in the Deep'",
+      "artist": "Adele",
+      "title": "Rolling in the Deep",
       "year": "2011",
       "writers": [
          "Adele Laurie Blue Adkins",
@@ -6036,7 +6455,8 @@
    {
       "id": 1225257,
       "position": 81,
-      "title": "The Velvet Underground, 'I’m Waiting for the Man'",
+      "artist": "The Velvet Underground",
+      "title": "I’m Waiting for the Man",
       "year": "1967",
       "writers": [
          "Lou Reed"
@@ -6049,7 +6469,8 @@
    {
       "id": 1225258,
       "position": 80,
-      "title": "Ray Charles, 'What'd I Say'",
+      "artist": "Ray Charles",
+      "title": "What'd I Say",
       "year": "1957",
       "writers": [
          "Ray Charles"
@@ -6062,7 +6483,8 @@
    {
       "id": 1225259,
       "position": 79,
-      "title": "Amy Winehouse, 'Back to Black'",
+      "artist": "Amy Winehouse",
+      "title": "Back to Black",
       "year": "2006",
       "writers": [
          "Amy Winehouse",
@@ -6076,7 +6498,8 @@
    {
       "id": 1225260,
       "position": 78,
-      "title": "The Four Tops, 'Reach Out (I'll Be There)'",
+      "artist": "The Four Tops",
+      "title": "Reach Out (I'll Be There)",
       "year": "1967",
       "writers": [
          "Brian Holland",
@@ -6091,7 +6514,8 @@
    {
       "id": 1225261,
       "position": 77,
-      "title": "The Modern Lovers, 'Roadrunner'",
+      "artist": "The Modern Lovers",
+      "title": "Roadrunner",
       "year": "1976",
       "writers": [
          "Jonathan Richman"
@@ -6104,7 +6528,8 @@
    {
       "id": 1225262,
       "position": 76,
-      "title": "Johnny Cash, 'I Walk the Line'",
+      "artist": "Johnny Cash",
+      "title": "I Walk the Line",
       "year": "1956",
       "writers": [
          "Johnny Cash"
@@ -6117,7 +6542,8 @@
    {
       "id": 1225263,
       "position": 75,
-      "title": "Pulp, 'Common People'",
+      "artist": "Pulp",
+      "title": "Common People",
       "year": "1996",
       "writers": [
          "Candida Doyle",
@@ -6134,7 +6560,8 @@
    {
       "id": 1225264,
       "position": 74,
-      "title": "Leonard Cohen, 'Hallelujah'",
+      "artist": "Leonard Cohen",
+      "title": "Hallelujah",
       "year": "1984",
       "writers": [
          "Leonard Cohen"
@@ -6147,7 +6574,8 @@
    {
       "id": 1225265,
       "position": 73,
-      "title": "Beyoncé, 'Formation'",
+      "artist": "Beyoncé",
+      "title": "Formation",
       "year": "2016",
       "writers": [
          "Aaquil Brown",
@@ -6163,7 +6591,8 @@
    {
       "id": 1225266,
       "position": 72,
-      "title": "The Beatles, 'Yesterday'",
+      "artist": "The Beatles",
+      "title": "Yesterday",
       "year": "1965",
       "writers": [
          "John Lennon",
@@ -6177,7 +6606,8 @@
    {
       "id": 1225267,
       "position": 71,
-      "title": "Tracy Chapman, 'Fast Car'",
+      "artist": "Tracy Chapman",
+      "title": "Fast Car",
       "year": "1988",
       "writers": [
          "Tracy Chapman"
@@ -6190,7 +6620,8 @@
    {
       "id": 1225268,
       "position": 70,
-      "title": "Elvis Presley, 'Suspicious Minds'",
+      "artist": "Elvis Presley",
+      "title": "Suspicious Minds",
       "year": "1969",
       "writers": [
          "Mark James"
@@ -6203,7 +6634,8 @@
    {
       "id": 1225269,
       "position": 69,
-      "title": "Taylor Swift, 'All Too Well'",
+      "artist": "Taylor Swift",
+      "title": "All Too Well",
       "year": "2012",
       "writers": [
          "Taylor Swift",
@@ -6217,7 +6649,8 @@
    {
       "id": 1225270,
       "position": 68,
-      "title": "Chic, 'Good Times'",
+      "artist": "Chic",
+      "title": "Good Times",
       "year": "1979",
       "writers": [
          "Bernard Edwards",
@@ -6231,7 +6664,8 @@
    {
       "id": 1225271,
       "position": 67,
-      "title": "Bob Dylan, 'Tangled Up in Blue'",
+      "artist": "Bob Dylan",
+      "title": "Tangled Up in Blue",
       "year": "1975",
       "writers": [
          "Bob Dylan"
@@ -6244,7 +6678,8 @@
    {
       "id": 1225272,
       "position": 66,
-      "title": "Simon and Garfunkel, 'Bridge Over Troubled Water'",
+      "artist": "Simon and Garfunkel",
+      "title": "Bridge Over Troubled Water",
       "year": "1970",
       "writers": [
          "Paul Simon"
@@ -6257,7 +6692,8 @@
    {
       "id": 1225273,
       "position": 65,
-      "title": "Earth, Wind, and Fire, 'September'",
+      "artist": "Earth",
+      "title": "in",
       "year": "1978",
       "writers": [
          "Albert McKay",
@@ -6272,7 +6708,8 @@
    {
       "id": 1225274,
       "position": 64,
-      "title": "Ramones, 'Blitzkrieg Bop'",
+      "artist": "Ramones",
+      "title": "Blitzkrieg Bop",
       "year": "1976",
       "writers": [
          "Tommy Ramone",
@@ -6286,7 +6723,8 @@
    {
       "id": 1225275,
       "position": 63,
-      "title": "Dolly Parton, 'Jolene'",
+      "artist": "Dolly Parton",
+      "title": "Jolene",
       "year": "1974",
       "writers": [
          "Dolly Parton"
@@ -6299,7 +6737,8 @@
    {
       "id": 1225276,
       "position": 62,
-      "title": "U2, 'One'",
+      "artist": "U2",
+      "title": "One",
       "year": "1992",
       "writers": [
          "Bono",
@@ -6315,7 +6754,8 @@
    {
       "id": 1225277,
       "position": 61,
-      "title": "Led Zeppelin, 'Stairway to Heaven'",
+      "artist": "Led Zeppelin",
+      "title": "Stairway to Heaven",
       "year": "1971",
       "writers": [
          "Jimmy Page",
@@ -6329,7 +6769,8 @@
    {
       "id": 1225278,
       "position": 60,
-      "title": "Kate Bush, 'Running Up That Hill'",
+      "artist": "Kate Bush",
+      "title": "Running Up That Hill",
       "year": "1985",
       "writers": [
          "Kate Bush"
@@ -6342,7 +6783,8 @@
    {
       "id": 1225279,
       "position": 59,
-      "title": "Grandmaster Flash and the Furious Five, 'The Message'",
+      "artist": "Grandmaster Flash and the Furious Five",
+      "title": "The Message",
       "year": "1982",
       "writers": [
          "Edward Fletcher",
@@ -6358,7 +6800,8 @@
    {
       "id": 1225280,
       "position": 58,
-      "title": "The Band, 'The Weight'",
+      "artist": "The Band",
+      "title": "The Weight",
       "year": "1968",
       "writers": [
          "Robbie Robertson"
@@ -6371,7 +6814,8 @@
    {
       "id": 1225281,
       "position": 57,
-      "title": "Sly and the Family Stone, 'Family Affair'",
+      "artist": "Sly and the Family Stone",
+      "title": "Family Affair",
       "year": "1971",
       "writers": [
          "Sylvester Stewart"
@@ -6384,7 +6828,8 @@
    {
       "id": 1225282,
       "position": 56,
-      "title": "Missy Elliott, 'Work It'",
+      "artist": "Missy Elliott",
+      "title": "Work It",
       "year": "2000",
       "writers": [
          "Melissa Elliott",
@@ -6398,7 +6843,8 @@
    {
       "id": 1225283,
       "position": 55,
-      "title": "Madonna, 'Like a Prayer'",
+      "artist": "Madonna",
+      "title": "Like a Prayer",
       "year": "1989",
       "writers": [
          "Madonna",
@@ -6412,7 +6858,8 @@
    {
       "id": 1225284,
       "position": 54,
-      "title": "Smokey Robinson and the Miracles, 'The Tracks of My Tears'",
+      "artist": "Smokey Robinson and the Miracles",
+      "title": "The Tracks of My Tears",
       "year": "1965",
       "writers": [
          "Marvin Tarplin",
@@ -6427,7 +6874,8 @@
    {
       "id": 1225285,
       "position": 53,
-      "title": "The Beach Boys, 'Good Vibrations'",
+      "artist": "The Beach Boys",
+      "title": "Good Vibrations",
       "year": "1966",
       "writers": [
          "Brian Wilson",
@@ -6441,7 +6889,8 @@
    {
       "id": 1225286,
       "position": 52,
-      "title": "Donna Summer, 'I Feel Love'",
+      "artist": "Donna Summer",
+      "title": "I Feel Love",
       "year": "1977",
       "writers": [
          "Donna Summer",
@@ -6456,7 +6905,8 @@
    {
       "id": 1225287,
       "position": 51,
-      "title": "Dionne Warwick, 'Walk on By'",
+      "artist": "Dionne Warwick",
+      "title": "Walk on By",
       "year": "1964",
       "writers": [
          "Burt Bacharach",
@@ -6470,7 +6920,8 @@
    {
       "id": 1225288,
       "position": 50,
-      "title": "Daddy Yankee, 'Gasolina'",
+      "artist": "Daddy Yankee",
+      "title": "Gasolina",
       "year": "2010",
       "writers": [
          "Francisco Saldaña",
@@ -6485,7 +6936,8 @@
    {
       "id": 1225289,
       "position": 49,
-      "title": "Lauryn Hill, 'Doo Wop (That Thing)'",
+      "artist": "Lauryn Hill",
+      "title": "Doo Wop (That Thing)",
       "year": "1998",
       "writers": [
          "Lauryn Hill"
@@ -6498,7 +6950,8 @@
    {
       "id": 1225290,
       "position": 48,
-      "title": "Radiohead, 'Idioteque'",
+      "artist": "Radiohead",
+      "title": "Idioteque",
       "year": "2000",
       "writers": [
          "Arthur Krieger",
@@ -6517,7 +6970,8 @@
    {
       "id": 1225291,
       "position": 47,
-      "title": "Elton John, 'Tiny Dancer'",
+      "artist": "Elton John",
+      "title": "Tiny Dancer",
       "year": "1972",
       "writers": [
          "Bernie Taupin",
@@ -6531,7 +6985,8 @@
    {
       "id": 1225292,
       "position": 46,
-      "title": "M.I.A., 'Paper Planes'",
+      "artist": "M.I.A.",
+      "title": "Paper Planes",
       "year": "2008",
       "writers": [
          "Joe Strummer",
@@ -6549,7 +7004,8 @@
    {
       "id": 1225293,
       "position": 45,
-      "title": "Kendrick Lamar, 'Alright'",
+      "artist": "Kendrick Lamar",
+      "title": "Alright",
       "year": "2015",
       "writers": [
          "Kendrick Lamar",
@@ -6564,7 +7020,8 @@
    {
       "id": 1225294,
       "position": 44,
-      "title": "Michael Jackson, 'Billie Jean'",
+      "artist": "Michael Jackson",
+      "title": "Billie Jean",
       "year": "1982",
       "writers": [
          "Michael J. Jackson"
@@ -6577,7 +7034,8 @@
    {
       "id": 1225295,
       "position": 43,
-      "title": "The Temptations, 'My Girl'",
+      "artist": "The Temptations",
+      "title": "My Girl",
       "year": "1965",
       "writers": [
          "Ronald White",
@@ -6591,7 +7049,8 @@
    {
       "id": 1225296,
       "position": 42,
-      "title": "Bob Marley and the Wailers, 'Redemption Song'",
+      "artist": "Bob Marley and the Wailers",
+      "title": "Redemption Song",
       "year": "1980",
       "writers": [
          "Bob Marley and the Wailers"
@@ -6604,7 +7063,8 @@
    {
       "id": 1225297,
       "position": 41,
-      "title": "Joy Division, 'Love Will Tear Us Apart'",
+      "artist": "Joy Division",
+      "title": "Love Will Tear Us Apart",
       "year": "1980",
       "writers": [
          "Bernard Sumner",
@@ -6620,7 +7080,8 @@
    {
       "id": 1225298,
       "position": 40,
-      "title": "The Jimi Hendrix Experience, 'All Along the Watchtower'",
+      "artist": "The Jimi Hendrix Experience",
+      "title": "All Along the Watchtower",
       "year": "1968",
       "writers": [
          "Bob Dylan"
@@ -6633,7 +7094,8 @@
    {
       "id": 1225299,
       "position": 39,
-      "title": "Outkast, 'B.O.B.'",
+      "artist": "Outkast",
+      "title": "B.O.B.",
       "year": "2000",
       "writers": [
          "André Benjamin",
@@ -6648,7 +7110,8 @@
    {
       "id": 1225300,
       "position": 38,
-      "title": "Otis Redding, '(Sittin' On) the Dock of the Bay'",
+      "artist": "Otis Redding",
+      "title": "(Sittin' On) the Dock of the Bay",
       "year": "1967",
       "writers": [
          "Otis Redding",
@@ -6662,7 +7125,8 @@
    {
       "id": 1225301,
       "position": 37,
-      "title": "Prince and the Revolution, 'When Doves Cry'",
+      "artist": "Prince and the Revolution",
+      "title": "When Doves Cry",
       "year": "1984",
       "writers": [
          " Prince"
@@ -6675,7 +7139,8 @@
    {
       "id": 1225302,
       "position": 36,
-      "title": "The White Stripes, 'Seven Nation Army'",
+      "artist": "The White Stripes",
+      "title": "Seven Nation Army",
       "year": "2003",
       "writers": [
          "Jack White"
@@ -6688,7 +7153,8 @@
    {
       "id": 1225303,
       "position": 35,
-      "title": "Little Richard, 'Tutti-Frutti'",
+      "artist": "Little Richard",
+      "title": "Tutti-Frutti",
       "year": "1955",
       "writers": [
          "Dorothy LaBostrie",
@@ -6703,7 +7169,8 @@
    {
       "id": 1225304,
       "position": 34,
-      "title": "James Brown, 'Papa’s Got a Brand New Bag'",
+      "artist": "James Brown",
+      "title": "Papa’s Got a Brand New Bag",
       "year": "1966",
       "writers": [
          "James Brown"
@@ -6716,7 +7183,8 @@
    {
       "id": 1225305,
       "position": 33,
-      "title": "Chuck Berry, 'Johnny B. Goode'",
+      "artist": "Chuck Berry",
+      "title": "Johnny B. Goode",
       "year": "1958",
       "writers": [
          "Chuck Berry"
@@ -6729,7 +7197,8 @@
    {
       "id": 1225306,
       "position": 32,
-      "title": "Notorious B.I.G., 'Juicy'",
+      "artist": "Notorious B.I.G.",
+      "title": "Juicy",
       "year": "1994",
       "writers": [
          "Diddy",
@@ -6745,7 +7214,8 @@
    {
       "id": 1225307,
       "position": 31,
-      "title": "The Rolling Stones, '(I Can't Get No) Satisfaction'",
+      "artist": "The Rolling Stones",
+      "title": "(I Can't Get No) Satisfaction",
       "year": "1965",
       "writers": [
          "Mick Jagger",
@@ -6759,7 +7229,8 @@
    {
       "id": 1225308,
       "position": 30,
-      "title": "Lorde, 'Royals'",
+      "artist": "Lorde",
+      "title": "Royals",
       "year": "2011",
       "writers": [
          "Ella Yelich O'Connor",
@@ -6773,7 +7244,8 @@
    {
       "id": 1225309,
       "position": 29,
-      "title": "Dr. Dre feat. Snoop Doggy Dogg, 'Nuthin' but a 'G' Thang'",
+      "artist": "Dr. Dre feat. Snoop Doggy Dogg",
+      "title": "Nuthin' but a 'G' Thang",
       "year": "1992",
       "writers": [
          "Calvin Broadus",
@@ -6788,7 +7260,8 @@
    {
       "id": 1225310,
       "position": 28,
-      "title": "Talking Heads, 'Once in a Lifetime'",
+      "artist": "Talking Heads",
+      "title": "Once in a Lifetime",
       "year": "1980",
       "writers": [
          "Brian Eno",
@@ -6805,7 +7278,8 @@
    {
       "id": 1225311,
       "position": 27,
-      "title": "Bruce Springsteen, 'Born to Run'",
+      "artist": "Bruce Springsteen",
+      "title": "Born to Run",
       "year": "1975",
       "writers": [
          "Bruce Springsteen"
@@ -6818,7 +7292,8 @@
    {
       "id": 1225312,
       "position": 26,
-      "title": "Joni Mitchell, 'A Case of You'",
+      "artist": "Joni Mitchell",
+      "title": "A Case of You",
       "year": "1971",
       "writers": [
          "Joni Mitchell"
@@ -6831,7 +7306,8 @@
    {
       "id": 1225313,
       "position": 25,
-      "title": "Kanye West feat. Pusha T, 'Runaway'",
+      "artist": "Kanye West feat. Pusha T",
+      "title": "Runaway",
       "year": "2010",
       "writers": [
          "Emile Haynie",
@@ -6851,7 +7327,8 @@
    {
       "id": 1225314,
       "position": 24,
-      "title": "The Beatles, 'A Day in the Life'",
+      "artist": "The Beatles",
+      "title": "A Day in the Life",
       "year": "1967",
       "writers": [
          "John Lennon",
@@ -6865,7 +7342,8 @@
    {
       "id": 1225315,
       "position": 23,
-      "title": "David Bowie, 'Heroes'",
+      "artist": "David Bowie",
+      "title": "Heroes",
       "year": "1977",
       "writers": [
          "David Bowie",
@@ -6879,7 +7357,8 @@
    {
       "id": 1225316,
       "position": 22,
-      "title": "The Ronettes, 'Be My Baby'",
+      "artist": "The Ronettes",
+      "title": "Be My Baby",
       "year": "1963",
       "writers": [
          "Jeff Barry",
@@ -6894,7 +7373,8 @@
    {
       "id": 1225317,
       "position": 21,
-      "title": "Billie Holiday, 'Strange Fruit'",
+      "artist": "Billie Holiday",
+      "title": "Strange Fruit",
       "year": "1939",
       "writers": [
          "Lewis Allan"
@@ -6907,7 +7387,8 @@
    {
       "id": 1225318,
       "position": 20,
-      "title": "Robyn, 'Dancing on My Own'",
+      "artist": "Robyn",
+      "title": "Dancing on My Own",
       "year": "2010",
       "writers": [
          "Robin Miriam Carlsson",
@@ -6921,7 +7402,8 @@
    {
       "id": 1225319,
       "position": 19,
-      "title": "John Lennon, 'Imagine'",
+      "artist": "John Lennon",
+      "title": "Imagine",
       "year": "1971",
       "writers": [
          "John Lennon",
@@ -6935,7 +7417,8 @@
    {
       "id": 1225320,
       "position": 18,
-      "title": "Prince and the Revolution, 'Purple Rain'",
+      "artist": "Prince and the Revolution",
+      "title": "Purple Rain",
       "year": "1984",
       "writers": [
          "Prince"
@@ -6948,7 +7431,8 @@
    {
       "id": 1225321,
       "position": 17,
-      "title": "Queen, 'Bohemian Rhapsody'",
+      "artist": "Queen",
+      "title": "Bohemian Rhapsody",
       "year": "1975",
       "writers": [
          "Freddie Mercury"
@@ -6961,7 +7445,8 @@
    {
       "id": 1225322,
       "position": 16,
-      "title": "Beyoncé feat. Jay-Z, 'Crazy in Love'",
+      "artist": "Beyoncé feat. Jay-Z",
+      "title": "Crazy in Love",
       "year": "2003",
       "writers": [
          "Shaun Carter",
@@ -6977,7 +7462,8 @@
    {
       "id": 1225323,
       "position": 15,
-      "title": "The Beatles, 'I Want to Hold Your Hand'",
+      "artist": "The Beatles",
+      "title": "I Want to Hold Your Hand",
       "year": "1963",
       "writers": [
          "John Lennon",
@@ -6991,7 +7477,8 @@
    {
       "id": 1225324,
       "position": 14,
-      "title": "The Kinks, 'Waterloo Sunset'",
+      "artist": "The Kinks",
+      "title": "Waterloo Sunset",
       "year": "1967",
       "writers": [
          "Ray Davies"
@@ -7004,7 +7491,8 @@
    {
       "id": 1225325,
       "position": 13,
-      "title": "The Rolling Stones, 'Gimme Shelter'",
+      "artist": "The Rolling Stones",
+      "title": "Gimme Shelter",
       "year": "1969",
       "writers": [
          "Mick Jagger",
@@ -7018,7 +7506,8 @@
    {
       "id": 1225326,
       "position": 12,
-      "title": "Stevie Wonder, 'Superstition'",
+      "artist": "Stevie Wonder",
+      "title": "Superstition",
       "year": "1972",
       "writers": [
          "Stevie Wonder"
@@ -7031,7 +7520,8 @@
    {
       "id": 1225327,
       "position": 11,
-      "title": "The Beach Boys, 'God Only Knows'",
+      "artist": "The Beach Boys",
+      "title": "God Only Knows",
       "year": "1966",
       "writers": [
          "Brian Wilson",
@@ -7045,7 +7535,8 @@
    {
       "id": 1225328,
       "position": 10,
-      "title": "Outkast, 'Hey Ya!'",
+      "artist": "Outkast",
+      "title": "Hey Ya!",
       "year": "2003",
       "writers": [
          "André Benjamin"
@@ -7058,7 +7549,8 @@
    {
       "id": 1225329,
       "position": 9,
-      "title": "Fleetwood Mac, 'Dreams'",
+      "artist": "Fleetwood Mac",
+      "title": "Dreams",
       "year": "1977",
       "writers": [
          "Stevie Nicks"
@@ -7071,7 +7563,8 @@
    {
       "id": 1225330,
       "position": 8,
-      "title": "Missy Elliott, 'Get Ur Freak On'",
+      "artist": "Missy Elliott",
+      "title": "Get Ur Freak On",
       "year": "2001",
       "writers": [
          "Missy Elliott",
@@ -7085,7 +7578,8 @@
    {
       "id": 1225331,
       "position": 7,
-      "title": "The Beatles, 'Strawberry Fields Forever'",
+      "artist": "The Beatles",
+      "title": "Strawberry Fields Forever",
       "year": "1967",
       "writers": [
          "John Lennon",
@@ -7099,7 +7593,8 @@
    {
       "id": 1225332,
       "position": 6,
-      "title": "Marvin Gaye, 'What’s Going On'",
+      "artist": "Marvin Gaye",
+      "title": "What’s Going On",
       "year": "1971",
       "writers": [
          "Marvin Gaye",
@@ -7114,7 +7609,8 @@
    {
       "id": 1225333,
       "position": 5,
-      "title": "Nirvana, 'Smells Like Teen Spirit'",
+      "artist": "Nirvana",
+      "title": "Smells Like Teen Spirit",
       "year": "1991",
       "writers": [
          "Kurt Cobain"
@@ -7127,7 +7623,8 @@
    {
       "id": 1225334,
       "position": 4,
-      "title": "Bob Dylan, 'Like a Rolling Stone'",
+      "artist": "Bob Dylan",
+      "title": "Like a Rolling Stone",
       "year": "1965",
       "writers": [
          "Bob Dylan"
@@ -7140,7 +7637,8 @@
    {
       "id": 1225335,
       "position": 3,
-      "title": "Sam Cooke, 'A Change Is Gonna Come'",
+      "artist": "Sam Cooke",
+      "title": "A Change Is Gonna Come",
       "year": "1964",
       "writers": [
          "Sam Cooke"
@@ -7153,7 +7651,8 @@
    {
       "id": 1225336,
       "position": 2,
-      "title": "Public Enemy, 'Fight the Power'",
+      "artist": "Public Enemy",
+      "title": "Fight the Power",
       "year": "1989",
       "writers": [
          "Carlton Ridenhour",
@@ -7169,7 +7668,8 @@
    {
       "id": 1225337,
       "position": 1,
-      "title": "Aretha Franklin, 'Respect'",
+      "artist": "Aretha Franklin",
+      "title": "Respect",
       "year": "1967",
       "writers": [
          "Otis Redding"

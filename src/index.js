@@ -1,15 +1,19 @@
 import fs from "fs"
 import path from "path"
+import { title } from "process";
 
 const songmapper = song => {
     try {
-        const parts = song.subtitle.replace("\r\n", "").replace("\\r\\n", "").match(/<div class="rs-list-item--year">(\d*)<\/div>.*<span class="rs-list-item--credits__names">(.*)(<\/span>)/)
+        const subtitle_parts = song.subtitle.replace("\r\n", "").replace("\\r\\n", "").match(/<div class="rs-list-item--year">(\d*)<\/div>.*<span class="rs-list-item--credits__names">(.*)(<\/span>)/)
+        const title_parts = song.title.split(", ");
+        const title = title_parts[1].substr(1, title_parts[1].length - 2)
         return {
             id: song.ID,
             position: song.positionDisplay,
-            title: song.title,
-            year: parts[1],
-            writers: parts[2].split(", "),
+            artist: title_parts[0],
+            title: title,
+            year: subtitle_parts[1],
+            writers: subtitle_parts[2].split(", "),
             // subtitle: song.subtitle,
             slug: song.slug,
             description: song.description,
@@ -17,7 +21,7 @@ const songmapper = song => {
             appleSongID: song.appleSongID
         }
     } catch(err) {
-        console.log(song.subtitle);
+        console.log(err);
     }
 }
 
